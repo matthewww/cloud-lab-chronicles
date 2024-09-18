@@ -1,50 +1,57 @@
-1. Services covered
+#### 9 Sept 2024
+----
+
+1. [Services covered](#services-covered)
 2. Lab description
-3. Lab date
-4. Prerequisites
-5. [Lab steps](#lab-steps)
-6. Lab files
-7. [Acknowledgements](#acknowledgements)
+3. Prerequisites
+4. [Lab steps](#lab-steps)
+5. Lab files
+6. [Acknowledgements](#acknowledgements)
+
+# Services covered
+- Github Repos
+- Github Actions
+- Github Pages
 
 # Lab steps
 
-## Set Up Your Project
-### Install MkDocs:
+### Set Up Your Project
+#### Install MkDocs:
 pip install mkdocs
 
-### Create a New MkDocs Project:
+#### Create a New MkDocs Project:
 mkdocs new my-project
 cd my-project
 
-### Configure MkDocs
+#### Configure MkDocs
 Edit the mkdocs.yml file to customize your site. For example:
 
 site_name: My Documentation
 theme:
   name: readthedocs
   
-### Add Your Markdown Files
+#### Add Your Markdown Files
 Place your .md files in the docs directory. For example, docs/index.md will be your homepage.
 
-### Serve Locally
+#### Serve Locally
 You can preview your site locally:
 mkdocs serve
 Open http://127.0.0.1:8000 in your browser to see your site.
 
-## Push to GitHub
+### Push to GitHub
 Initialize a Git repository and push your project to GitHub.
 
-### Initialize a Git Repository:
+#### Initialize a Git Repository:
 git init
 git add .
 git commit -m "Initial commit"
 
-### Create a GitHub Repository
+#### Create a GitHub Repository
 Go to GitHub and create a new repository named your-username.github.io.
 Add the Remote Repository:
 git remote add origin https://github.com/your-username/your-username.github.io.git
 
-## Set Up GitHub Actions
+### Set Up GitHub Actions
 Create a .github/workflows/ci.yml file in your repository with the following content:
 name: Deploy MkDocs
 
