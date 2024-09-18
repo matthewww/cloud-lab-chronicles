@@ -1,7 +1,7 @@
-# cloud-lab-chronicles
+# Cloud Lab Chronicles
 My goal is to complete 100 days of cloud labs, with a robotics/IOT flavour when it makes sense. Most likely the labs will be mainly in AWS.
 
-I'm currently travelling the [AWS Architecture Certification Path](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf). 
+The main objective is to gain practical experience to suppliment theory as I travel on the [AWS Architecture Certification Path](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf). 
 - ✅[AWS Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/) 
 - ⌛[AWS Certified AI Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/)
 - ⌛[AWS Certified Solutions Architect - Associate (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
