@@ -13,4 +13,4 @@ I'm also interested Azure as I work with .NET.
 I figured that keeping track of my journey here might help keep me accountable to myself. Thanks [Leszek Ucinski](https://github.com/LesUski/100-Days-in-Cloud/tree/main) for the idea.
 
 ### Lab Index
-- [00-pages-setup](https://github.com/matthewww/cloud-lab-chronicles/blob/main/00-pages-setup.md)
+- [00-pages-setup](https://github.com/matthewww/cloud-lab-chronicles/blob/main/Labs/00-pages-setup/00-pages-setup.md)
