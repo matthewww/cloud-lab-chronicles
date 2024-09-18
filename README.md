@@ -10,7 +10,7 @@ I'm also interested Azure as I work with .NET.
 - ✅[Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) 
 - ⌛[Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
 
-I figured that keeping track of my journey here might help keep me accountable to myself. Thanks [Leszek Ucinski for the idea](https://github.com/LesUski/100-Days-in-Cloud/tree/main).
+I figured that keeping track of my journey here might help keep me accountable to myself. Thanks [Leszek Ucinski](https://github.com/LesUski/100-Days-in-Cloud/tree/main) for the idea.
 
 ### Lab Index
 - [00-pages-setup](https://github.com/matthewww/cloud-lab-chronicles/blob/main/00-pages-setup.md)
