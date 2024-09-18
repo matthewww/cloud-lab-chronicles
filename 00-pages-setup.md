@@ -1,3 +1,13 @@
+1. Services covered
+2. Lab description
+3. Lab date
+4. Prerequisites
+5. [Lab steps](#lab-steps)
+6. Lab files
+7. [Acknowledgements](#acknowledgements)
+
+# Lab steps
+
 ## Set Up Your Project
 ### Install MkDocs:
 pip install mkdocs
@@ -65,3 +75,6 @@ jobs:
         mkdocs gh-deploy --force
 
 With this setup, every time you push changes to the main branch, GitHub Actions will automatically build and deploy your site to GitHub Pages. This way, you don’t need to manually run mkdocs gh-deploy each time.
+
+# Acknowledgements
+- [LesUski/100-Days-in-Cloud](https://github.com/LesUski/100-Days-in-Cloud/tree/main)
