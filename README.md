@@ -6,7 +6,7 @@ The main objective is to gain practical experience to suppliment theory as I tra
 - ⌛[AWS Certified AI Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/)
 - ⌛[AWS Certified Solutions Architect - Associate (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-But am also interested Azure:
+I'm also interested Azure as I work with .NET.
 - ✅[Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) 
 - ⌛[Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
 
