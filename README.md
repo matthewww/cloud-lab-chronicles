@@ -1,5 +1,5 @@
 # Cloud Lab Chronicles
-My goal is to complete 100 days of cloud labs, with a robotics and IOT flavour when it makes sense. Most likely the labs will be mainly in AWS.
+My goal here is to complete 100 days of cloud labs, with a robotics and IOT flavour when it makes sense. The labs will most likely be mainly in AWS. 
 
 The main objective is to gain practical experience to suppliment theory as I travel on the [AWS Architecture Certification Path](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf). 
 - ✅[AWS Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/) 
@@ -9,6 +9,8 @@ The main objective is to gain practical experience to suppliment theory as I tra
 But am also interested Azure:
 - ✅[Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) 
 - ⌛[Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
+
+I figured that keeping track of my journey here might help keep me accountable to myself. Thanks [Leszek Ucinski for the idea](https://github.com/LesUski/100-Days-in-Cloud/tree/main).
 
 ### Lab Index
 - [00-pages-setup](https://github.com/matthewww/cloud-lab-chronicles/blob/main/00-pages-setup.md)
