@@ -18,6 +18,8 @@ Extend further -
    - **Possible Extensions**:
      - Set up a trigger to run an AWS Lambda function (or Azure Function) whenever a new image is uploaded.
 
+---
+
 ### Motion Detection and Alert System with AWS SNS / Azure Notification Hubs
    - **Goal**: Use the ESP32-CAM to detect motion (using basic image analysis or an external PIR sensor) and send alerts via AWS SNS or Azure Notification Hubs.
    - **Tools Needed**: 
@@ -30,6 +32,8 @@ Extend further -
      3. If motion is detected, trigger an AWS SNS or Azure Notification Hub to send an email or SMS alert.
    - **Possible Extensions**:
      - Include an AI-based object recognition feature to only send alerts for specific objects (e.g., people or vehicles).
+
+---
 
 ### Live Streaming to AWS or Azure via MQTT
    - **Goal**: Stream live video from the ESP32-CAM using MQTT (AWS IoT Core or Azure IoT Hub) and display it on a dashboard.
@@ -46,6 +50,8 @@ Extend further -
    - **Possible Extensions**:
      - Integrate with AWS Lambda/Azure Functions to process the video stream in real-time for object detection or face recognition.
 
+---
+
 ### Facial Recognition System with AWS Rekognition / Azure Face API
    - **Goal**: Use the ESP32-CAM to capture images and upload them to AWS Rekognition or Azure Face API for facial recognition.
    - **Tools Needed**: 
@@ -60,6 +66,8 @@ Extend further -
      - Add a logging system where each recognized face is logged with a timestamp in AWS DynamoDB or Azure Cosmos DB.
      - Set up notifications when a specific face is recognized.
 
+---
+
 ### Security Surveillance with AWS DynamoDB / Azure Cosmos DB
    - **Goal**: Use the ESP32-CAM to monitor a location and store image or video capture events in AWS DynamoDB or Azure Cosmos DB.
    - **Tools Needed**: 
@@ -71,6 +79,8 @@ Extend further -
      3. Use a cloud-based dashboard to query and visualize historical data (like images captured over time).
    - **Possible Extensions**:
      - Create a time-lapse video of all images captured over a period.
+
+---
 
 ### Image Classification with AWS Lambda & S3 / Azure Functions & Blob Storage
    - **Goal**: Capture images using the ESP32-CAM, upload them to cloud storage, and classify them using a pre-trained machine learning model running in AWS Lambda or Azure Functions.
@@ -85,6 +95,8 @@ Extend further -
    - **Possible Extensions**:
      - Build a web app to visualize the classifications and track performance metrics over time.
 
+---
+
 ### Temp Monitoring with AWS IoT / Azure IoT Hub
    - **Goal**: Connect a temperature sensor to the ESP32-CAM and stream data to AWS IoT Core or Azure IoT Hub for real-time monitoring.
    - **Tools Needed**: 
@@ -97,6 +109,8 @@ Extend further -
      3. Visualize the data in real-time using a dashboard or an IoT rule.
    - **Possible Extensions**:
      - Set up temperature thresholds to trigger alerts or activate devices like fans.
+
+---
 
 ### Time-Lapse Video Creator with AWS S3 / Azure Blob Storage
    - **Goal**: Use the ESP32-CAM to capture images at regular intervals and upload them to AWS S3 or Azure Blob Storage to create a time-lapse video.
