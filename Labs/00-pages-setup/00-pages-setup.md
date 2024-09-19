@@ -2,7 +2,7 @@
 ----
 
 1. [Services covered](#services-covered)
-2. Lab description
+2. [Lab description](#lab-description)
 3. Prerequisites
 4. [Lab steps](#lab-steps)
 5. Lab files
