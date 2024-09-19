@@ -13,6 +13,9 @@
 - Github Actions
 - Github Pages
 
+# Lab description
+
+
 # Lab steps
 
 ### Set Up Your Project
@@ -44,18 +47,18 @@ Open http://127.0.0.1:8000 in your browser to see your site.
 ### Push to GitHub
 Initialize a Git repository and push your project to GitHub.
 
-#### Initialize a Git Repository:
-git init
-git add .
-git commit -m "Initial commit"
+### Push to Github Pages
+One of the best features of MkDocs is its ability to easily deploy to GitHub Pages.
 
-#### Create a GitHub Repository
-Go to GitHub and create a new repository named your-username.github.io.
-Add the Remote Repository:
-git remote add origin https://github.com/your-username/your-username.github.io.git
+After building your site using mkdocs build, you can deploy it directly to GitHub Pages with:
+
+`mkdocs gh-deploy`
+
+This pushes your generated static site to the gh-pages branch of your GitHub repository.
 
 ### Set Up GitHub Actions
 Create a .github/workflows/ci.yml file in your repository with the following content:
+```
 name: Deploy MkDocs
 
 on:
@@ -83,6 +86,7 @@ jobs:
     - name: Deploy to GitHub Pages
       run: |
         mkdocs gh-deploy --force
+```
 
 With this setup, every time you push changes to the main branch, GitHub Actions will automatically build and deploy your site to GitHub Pages. This way, you don’t need to manually run mkdocs gh-deploy each time.
 
