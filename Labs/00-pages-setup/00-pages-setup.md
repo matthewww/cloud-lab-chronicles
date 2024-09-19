@@ -16,26 +16,29 @@
 # Lab steps
 
 ### Set Up Your Project
-#### Install MkDocs:
-pip install mkdocs
+#### Install MkDocs
+`pip install mkdocs`
 
 #### Create a New MkDocs Project:
+```
 mkdocs new my-project
 cd my-project
+```
 
 #### Configure MkDocs
 Edit the mkdocs.yml file to customize your site. For example:
-
+```
 site_name: My Documentation
 theme:
   name: readthedocs
-  
+```
 #### Add Your Markdown Files
 Place your .md files in the docs directory. For example, docs/index.md will be your homepage.
 
 #### Serve Locally
 You can preview your site locally:
-mkdocs serve
+`mkdocs serve`
+
 Open http://127.0.0.1:8000 in your browser to see your site.
 
 ### Push to GitHub
