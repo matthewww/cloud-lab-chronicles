@@ -6,7 +6,8 @@
 3. [Prerequisites](#prerequisites)
 4. [Lab steps](#lab-steps)
 5. [Lab files](#lab-files)
-6. [Acknowledgements](#acknowledgements)
+6. [Troubleshooting](#troubleshooting)
+7. [Acknowledgements](#acknowledgements)
 
 ## Services covered
 - GitHub Repos
@@ -96,5 +97,12 @@ jobs:
 With this setup, every time you push changes to the main branch, GitHub Actions will automatically build and deploy your site to GitHub Pages. This way, you don’t need to manually run mkdocs gh-deploy each time.
 
 ## Lab files
+
+## Troubleshooting
+```
+remote: Permission to matthewww/cloud-lab-chronicles.git denied to github-actions[bot].
+fatal: unable to access 'https://github.com/matthewww/cloud-lab-chronicles.git/': The requested URL returned error: 403
+```
+https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot
 
 ## Acknowledgements
