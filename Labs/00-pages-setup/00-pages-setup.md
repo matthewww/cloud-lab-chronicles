@@ -1,5 +1,5 @@
 # GitHub CI/CD: Markdown to Website
-#### 18 Sept 2024
+#### 18th Sept 2024
 
 1. [Services covered](#services-covered)
 2. [Lab description](#lab-description)
