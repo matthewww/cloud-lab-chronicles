@@ -1,11 +1,12 @@
-#### 9 Sept 2024
+#### Publish markdown to Google Pages via Google Actions CICD 
+#### 18 Sept 2024
 ----
 
 1. [Services covered](#services-covered)
 2. [Lab description](#lab-description)
-3. Prerequisites
+3. [Prerequisites](#prerequisites)
 4. [Lab steps](#lab-steps)
-5. Lab files
+5. [Lab files](#lab-files)
 6. [Acknowledgements](#acknowledgements)
 
 # Services covered
@@ -15,6 +16,7 @@
 
 # Lab description
 
+# Prerequisites
 
 # Lab steps
 
@@ -42,7 +44,7 @@ Place your .md files in the docs directory. For example, docs/index.md will be y
 You can preview your site locally:
 `mkdocs serve`
 
-Open http://127.0.0.1:8000 in your browser to see your site.
+Open `http://127.0.0.1:8000` in your browser to see your site.
 
 ### Push to GitHub
 Initialize a Git repository and push your project to GitHub.
@@ -90,5 +92,6 @@ jobs:
 
 With this setup, every time you push changes to the main branch, GitHub Actions will automatically build and deploy your site to GitHub Pages. This way, you don’t need to manually run mkdocs gh-deploy each time.
 
+# Lab files
+
 # Acknowledgements
-- [LesUski/100-Days-in-Cloud](https://github.com/LesUski/100-Days-in-Cloud/tree/main)
