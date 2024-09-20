@@ -1,4 +1,4 @@
-# GitHub CI/CD: Markdown to HTML
+# GitHub CI/CD: Markdown to Website
 #### 18 Sept 2024
 ----
 
