@@ -18,16 +18,10 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: List files in the root directory
-      run: ls -la
-
-    - name: List files in the site directory
-      run: ls -la site
-
     - name: Install dependencies
       run: |
         pip install mkdocs mkdocs-material
 
     - name: Deploy to GitHub Pages
       run: |
-        mkdocs gh-deploy --config-file /site/mkdocs.yml --force
+        mkdocs gh-deploy --config-file site/mkdocs.yml --force
