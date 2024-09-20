@@ -1,4 +1,4 @@
-#### Publish markdown to Google Pages via Google Actions CICD 
+# GitHub CI/CD: Markdown to HTML
 #### 18 Sept 2024
 ----
 
@@ -9,16 +9,20 @@
 5. [Lab files](#lab-files)
 6. [Acknowledgements](#acknowledgements)
 
-# Services covered
-- Github Repos
-- Github Actions
-- Github Pages
+## Services covered
+- GitHub Repos
+- GitHub Actions
+- GitHub Pages
 
-# Lab description
+## Lab description
+Set up a Continuous Integration / Continuous Deployment pipeline that publishes a website when markdown files are pushed to a repository.
 
-# Prerequisites
+## Prerequisites
+- GitHub account
+- VS Code
+- Python
 
-# Lab steps
+## Lab steps
 
 ### Set Up Your Project
 #### Install MkDocs
@@ -38,7 +42,7 @@ theme:
   name: readthedocs
 ```
 #### Add Your Markdown Files
-Place your .md files in the docs directory. For example, docs/index.md will be your homepage.
+Place your .md files in the docs directory. For example, `docs/index.md` will be your homepage.
 
 #### Serve Locally
 You can preview your site locally:
@@ -92,6 +96,6 @@ jobs:
 
 With this setup, every time you push changes to the main branch, GitHub Actions will automatically build and deploy your site to GitHub Pages. This way, you don’t need to manually run mkdocs gh-deploy each time.
 
-# Lab files
+## Lab files
 
-# Acknowledgements
+## Acknowledgements
