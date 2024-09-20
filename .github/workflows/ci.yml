@@ -18,8 +18,11 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: List files in the repository ..
-      run: ls -la ../../site
+    - name: List files in the root directory
+      run: ls -la
+
+    - name: List files in the site directory
+      run: ls -la site
 
     - name: Install dependencies
       run: |
