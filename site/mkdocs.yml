@@ -1,10 +1,10 @@
 site_name: Cloud Lab Chronicles
 site_url: https://matthewww.github.io/cloud-lab-chronicles/
-
+docs_dir: ../labs
 nav:
   - Home: index.md
   - labs:
-      - Pages Setup: ../Labs/00-pages-setup/00-pages-setup.md
+      - Pages Setup: 00-pages-setup/00-pages-setup.md
 
 theme:
   name: material
