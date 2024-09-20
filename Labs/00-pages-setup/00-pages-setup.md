@@ -1,6 +1,5 @@
 # GitHub CI/CD: Markdown to Website
 #### 18 Sept 2024
-----
 
 1. [Services covered](#services-covered)
 2. [Lab description](#lab-description)
@@ -53,7 +52,7 @@ Open `http://127.0.0.1:8000` in your browser to see your site.
 ### Push to GitHub
 Initialize a Git repository and push your project to GitHub.
 
-### Push to Github Pages
+### Push to GitHub Pages
 One of the best features of MkDocs is its ability to easily deploy to GitHub Pages.
 
 After building your site using mkdocs build, you can deploy it directly to GitHub Pages with:
