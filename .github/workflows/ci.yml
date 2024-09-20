@@ -28,4 +28,5 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        mkdocs gh-deploy --config-file site/mkdocs.yml --force --remote-name origin --remote-branch gh-pages --remote-url https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
+        git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
+        mkdocs gh-deploy --config-file site/mkdocs.yml --force
