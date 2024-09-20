@@ -23,5 +23,10 @@ jobs:
         pip install mkdocs mkdocs-material
 
     - name: Deploy to GitHub Pages
+    - name: Deploy to GitHub Pages
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
       run: |
-        mkdocs gh-deploy --config-file site/mkdocs.yml --force
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        mkdocs gh-deploy --config-file site/mkdocs.yml --force --remote-name origin --remote-branch gh-pages --remote-url https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
