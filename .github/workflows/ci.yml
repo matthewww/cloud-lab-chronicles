@@ -1,4 +1,4 @@
-name: Deploy MkDocs
+name: Deploy Markdown as Website
 
 on:
   push:

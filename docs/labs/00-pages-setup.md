@@ -37,9 +37,15 @@ cd my-project
 #### Configure MkDocs
 Edit the mkdocs.yml file to customize your site. For example:
 ```
-site_name: My Documentation
+site_name: Cloud Lab Chronicles
+site_url: https://matthewww.github.io/cloud-lab-chronicles/
+docs_dir: ../docs
+nav:
+  - Home: index.md
+  - Labs: labs/00-pages-setup.md
+
 theme:
-  name: readthedocs
+  name: material
 ```
 #### Add Your Markdown Files
 Place your .md files in the docs directory. For example, `docs/index.md` will be your homepage.
@@ -65,7 +71,7 @@ This pushes your generated static site to the gh-pages branch of your GitHub rep
 ### Set Up GitHub Actions
 Create a .github/workflows/ci.yml file in your repository with the following content:
 ```
-name: Deploy MkDocs
+name: Deploy Markdown as Website
 
 on:
   push:
@@ -78,23 +84,30 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: '3.x'
 
     - name: Install dependencies
       run: |
-        pip install mkdocs mkdocs-material
+        pip install mkdocs mkdocs-material mkdocs-awesome-pages-plugin
+
 
     - name: Deploy to GitHub Pages
       run: |
         mkdocs gh-deploy --force
 ```
 
-With this setup, every time you push changes to the main branch, GitHub Actions will automatically build and deploy your site to GitHub Pages. This way, you don’t need to manually run mkdocs gh-deploy each time.
+Every time you push changes to the main branch, GitHub Actions will automatically build and deploy your site to GitHub Pages. This way, you don’t need to manually run mkdocs gh-deploy each time.
+
+### Add GitHub Pages Extension to VS Code
+
+Rather than going to Actions in GitHub to see workflow runs, you can do this directly in VS Code. Noice!
+
+![GitHub Actions in VS Code](../../docs/img/00-pages-setup-1.png)
 
 ## Lab files
 
