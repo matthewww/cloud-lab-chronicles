@@ -10,8 +10,8 @@
 7. [Acknowledgements](#acknowledgements)
 
 ## Services covered
-- **Azure IoT Hub** 
-- **Azure IoT Central** 
+- **Azure IoT Hub** (free tier)
+- **Azure IoT Central** (free tier)
 
 ## Lab description
 
