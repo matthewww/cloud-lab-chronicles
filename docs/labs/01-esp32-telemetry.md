@@ -19,7 +19,7 @@ This lab demonstrates how to collect built-in telemetry from an **ESP32** microc
 
 - Wi-Fi signal strength
 - Free heap memory
-- CPU temperature (mocked)
+- CPU temperature
 - Uptime
 
 The ESP32 will send telemetry to Azure IoT Hub, and Azure IoT Central will be used to build a graphical dashboard for real-time monitoring and analysis.
