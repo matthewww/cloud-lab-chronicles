@@ -16,6 +16,7 @@
 ## Lab description
 
 This lab demonstrates how to collect built-in telemetry from an **ESP32** microcontroller and visualize it using a real-time dashboard in **Azure IoT Central**. Telemetry data includes:
+
 - Wi-Fi signal strength
 - Free heap memory
 - CPU temperature (mocked)
@@ -27,16 +28,13 @@ The ESP32 will send telemetry to Azure IoT Hub, and Azure IoT Central will be us
 
 1. **Hardware:**
    - ESP32 microcontroller
-   - USB cable for programming
 
 2. **Software:**
    - Arduino IDE with ESP32 board support
    - Azure IoT SDK (`AzureIoTHub` library)
-   - Internet connection
 
 3. **Azure Setup:**
    - Azure account with access to **Azure IoT Hub** and **Azure IoT Central**.
-   - Basic knowledge of IoT Hub and device connectivity.
 
 ## Lab steps
 
@@ -45,7 +43,13 @@ The ESP32 will send telemetry to Azure IoT Hub, and Azure IoT Central will be us
 1. Go to the [Azure portal](https://portal.azure.com/).
 2. Click **Create a resource**, search for **IoT Hub**, and click **Create**.
 3. Choose **Free Tier** to avoid costs.
-4. Create a resource group and give the IoT Hub a name (e.g., `ESP32Hub`).
+4. Create a resource group (e.g. `ESP32-Telemetry-RG`) and give the IoT Hub a name (e.g., `ESP32Hub`).
+  - Networking: Public Access is fine. Communication is encrypted (TLS) and authenticated (SAS tokens) and works on Free Tier.
+  - Management: Shared Access Policies + RBAC  
+    - The ESP32 uses Shared Access Policies (with a SAS token).
+    - You'll use RBAC to access the IoT Hub through the portal.
+    - The monitoring app can be use RBAC to read telemetry to display it on a dashboard.
+
 5. After creation, go to **IoT Hub** > **IoT Devices** and click **+ New** to register a new device.
 6. Save the **device connection string**; you’ll use this in the ESP32 code.
 
