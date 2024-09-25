@@ -31,7 +31,10 @@ graph LR;
     D3 --> D3_EXP{{"Transforms words into vector space"}}
 
     D --> D4[Deep Learning in NLP]
-    D4 --> D4_EXP{{"Uses RNNs and transformers for tasks"}}
+    D4 --> D4_EXP{{"Uses RNNs, CNNs, and transformers"}}
+
+    D --> D5[GPT Models]
+    D5 --> D5_EXP{{"Generates text with context awareness"}}
 
     A --> E[Azure Services for NLP]
     E --> E1[Azure Cognitive Services]
@@ -76,4 +79,5 @@ graph LR;
 
     H --> H4[Document Summarization]
     H4 --> H4_EXP{{"Condensing documents into summaries"}}
+
 ```
