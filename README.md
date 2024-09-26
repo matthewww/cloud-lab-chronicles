@@ -10,12 +10,17 @@ My main lab objective is to gain practical cloud experience to suppliment theory
 - ✅ [AWS Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/) 
 - ⌛ [AWS Certified AI Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/)
 - ⌛ [AWS Certified Solutions Architect - Associate (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- 🤔 AWS Certified Developer - Associate (DVA-C02)
+- 🤔 Maybe: AWS Certified Solutions Architect - Professional (SAP-302)
 
 I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI) as I work with .NET day to day, and also Microsoft's investment in OpenAI has lead to tight integration to the Azure platform.
 - ✅ [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) 
 - ✅ [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
 - 🤔 Maybe: [Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
 - ⌛ [Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)
+- 🤔 Maybe: Developer Associate (AZ-204)
+- 🤔 Maybe: Administrator Associate (AZ-104)
+- 🤔 Maybe: Solutions Architect Expert (AZ-305)
 
 I figured that keeping track of my journey here might help keep me accountable to myself. Thanks [Leszek Ucinski](https://github.com/LesUski/100-Days-in-Cloud/tree/main) for the idea.
 
