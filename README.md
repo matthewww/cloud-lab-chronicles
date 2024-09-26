@@ -11,7 +11,7 @@ I want to to gain practical cloud experience to suppliment theory as I travel on
 - ⌛ [AWS Certified AI Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/)
 - ⌛ [AWS Certified Solutions Architect - Associate (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-I'm also interested in the Azure certifications as I work with .NET day to day. Also, Microsoft's investments in OpenAI has lead to tight integration to the Azure platform that is lacking in AWS.
+I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI) as I work with .NET day to day. Also, Microsoft's investments in OpenAI has lead to tight integration to the Azure platform that is lacking in AWS.
 - ✅ [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) 
 - ✅ [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
 - 🤔 Maybe: [Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
