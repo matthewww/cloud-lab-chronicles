@@ -6,7 +6,7 @@ My goal here is to document the completion of 100 cloud labs, with a robotics an
 - [01-esp32-telemetry](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/01-esp32-telemetry.md) <--WIP
 
 ### Certification Journey
-I want to to gain practical cloud experience to suppliment theory as I travel on the [AWS Architecture Certification](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf) Path. 
+My main lab objective is to gain practical cloud experience to suppliment theory as I travel on the [AWS Architecture Certification](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf) Path. 
 - ✅ [AWS Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/) 
 - ⌛ [AWS Certified AI Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/)
 - ⌛ [AWS Certified Solutions Architect - Associate (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
