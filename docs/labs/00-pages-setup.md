@@ -107,7 +107,7 @@ Every time you push changes to the main branch, GitHub Actions will automaticall
 
 Rather than going to Actions in GitHub to see workflow runs, you can do this directly in VS Code. Noice!
 
-![GitHub Actions in VS Code](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/img/00-pages-setup-1.png)
+![GitHub Actions in VS Code](https://raw.githubusercontent.com/matthewww/cloud-lab-chronicles/refs/heads/main/docs/img/00-pages-setup-1.png)
 
 ## Lab files
 
