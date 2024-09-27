@@ -32,4 +32,6 @@ I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.micr
 | 🤔 | Developer Associate (AZ-204) | Associate |
 | 🤔 | Solutions Architect Expert (AZ-305) | Expert |
 
-✅ Passed | ⌛ Booked | 🤔 Maybe
+✅ Passed 
+⌛ Booked
+🤔 Maybe
