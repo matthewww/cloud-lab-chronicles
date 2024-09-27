@@ -5,8 +5,17 @@ docs_dir: ../docs
 theme:
   name: material
   palette:
-    scheme: slate
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
 
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 plugins:
   - search
   - awesome-pages
