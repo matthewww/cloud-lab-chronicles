@@ -17,8 +17,12 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
-
-    - name: Install dependencies
+    
+    - name: Create symlink for README.md
+      run: |
+        ln -s ../README.md docs/index.md
+    
+    - name: Install mkdocs dependencies
       run: |
         pip install mkdocs mkdocs-material mkdocs-awesome-pages-plugin
 
