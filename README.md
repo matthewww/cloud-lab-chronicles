@@ -4,6 +4,7 @@ My goal here is to document the completion of 100 cloud labs, with a robotics an
 I figured that keeping track of my journey here might help keep me accountable to myself. Thanks [Leszek Ucinski](https://github.com/LesUski/100-Days-in-Cloud/tree/main) for the idea.
 
 ## Lab Index
+The following link back to Github, or browse the webpage versions using the menu.
 - [00-pages-setup](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/00-pages-setup.md)
 - |**WIP**| [01-esp32-telemetry](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/01-esp32-telemetry.md) 
 
@@ -12,30 +13,22 @@ My main lab objective is to gain practical cloud experience to suppliment theory
 
 I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI) as I work with .NET day to day, and also Microsoft's investment in OpenAI has lead to tight integration to the Azure platform.
 
-✅ Passed | ⌛ Booked | 🤔 Maybe
-
 ### Amazon AWS
-**Fundamentals**
-- ✅ [AWS Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/) 
-- ⌛ [AWS Certified AI Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/)
-
-**Associate**
-- ⌛ [AWS Certified Solutions Architect - Associate (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-- 🤔 AWS Certified Developer - Associate (DVA-C02)
-
-**Professional**
-- 🤔 AWS Certified Solutions Architect - Professional (SAP-302)
+| Status | Certification | Level |
+|:---:|---|---|
+| ✅ | [AWS Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/) | Fundamentals |
+| ⌛ | [AWS AI Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/) | Fundamentals |
+| ⌛ | [AWS Solutions Architect (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | Associate |
+| 🤔 | AWS Solutions Architect (SAP-302) | Professional |
 
 ### Microsoft Azure
-**Fundamentals**
-- ✅ [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) 
-- ✅ [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
-- 🤔 [Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
+| Status | Certification | Level |
+|:---:|---|---|
+| ✅ | [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) | Fundamentals |
+| ✅ | [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | Fundamentals |
+| 🤔 | [Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/) | Fundamentals |
+| 🤔 | [Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | Associate |
+| 🤔 | Developer Associate (AZ-204) | Associate |
+| 🤔 | Solutions Architect Expert (AZ-305) | Expert |
 
-**Associate**
-- 🤔 [Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)
-- 🤔 Developer Associate (AZ-204)
-
-**Expert**
-- 🤔 Solutions Architect Expert (AZ-305)
-
+✅ Passed | ⌛ Booked | 🤔 Maybe
