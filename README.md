@@ -5,6 +5,7 @@ I figured that keeping track of my journey here might help keep me accountable t
 
 ## Lab Index
 The following link back to Github, or browse the webpage versions using the menu.
+
 - [00-pages-setup](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/00-pages-setup.md)
 - |**WIP**| [01-esp32-telemetry](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/01-esp32-telemetry.md) 
 
