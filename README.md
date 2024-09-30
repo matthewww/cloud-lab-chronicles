@@ -12,7 +12,7 @@ The following link back to Github, or browse the webpage versions using the menu
 ## Certification Journey
 My main lab objective is to gain practical cloud experience to suppliment theory as I travel on the [AWS Architecture Certification](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf) Path. 
 
-I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI) as I work with .NET day to day, and also Microsoft's investment in OpenAI has lead to tight integration to the Azure platform.
+I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI) in part because I currently work with .NET. Microsoft's investment in OpenAI has lead to tight integration to the Azure platform, whereas AWS emphasizes the versatility of its foundation models through services like Amazon Bedrock.
 
 ### Amazon AWS
 | Status | Certification | Level |
