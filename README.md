@@ -7,12 +7,10 @@ I figured that keeping track of my journey here might help keep me accountable t
 The following link back to Github, or browse the webpage versions using the menu.
 
 - [00-pages-setup](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/00-pages-setup.md)
-- |**WIP**| [01-esp32-telemetry](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/01-esp32-telemetry.md) 
+- [01-esp32-telemetry](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/01-esp32-telemetry.md) **WIP**
 
 ## Certification Journey
 My main lab objective is to gain practical cloud experience to suppliment theory as I travel on the [AWS Architecture Certification](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf) Path. 
-
-I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI) in part because I currently work with .NET. Microsoft's investment in OpenAI has lead to tight integration to the Azure platform, whereas AWS emphasizes the versatility of its foundation models through services like Amazon Bedrock.
 
 ### Amazon AWS
 | Status | Certification | Level |
@@ -22,6 +20,8 @@ I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.micr
 | ⌛ | [AWS Solutions Architect (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | Associate |
 | 🤔 | [AWS Machine Learning Engineer (MLA-C01)](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate) | Associate |
 | 🤔 | AWS Solutions Architect (SAP-302) | Professional |
+
+I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI) in part because I currently work with .NET. Microsoft's investment in OpenAI has lead to tight integration to the Azure platform, whereas AWS emphasizes the versatility of its foundation models through services like Amazon Bedrock.
 
 ### Microsoft Azure
 | Status | Certification | Level |
