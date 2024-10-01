@@ -466,3 +466,47 @@ Source: Conversation with Copilot, 10/1/2024
 - (1) github.com. https://github.com/interkid/demo-facerecognition/tree/8042e5d5be6c0ba10ee18a802572fce240af7e00/testcode%2Flambda_test.py.
 - (2) github.com. https://github.com/vodelerk/AwsStepFunctions/tree/56b726cb6e18a4b162da0b43462f3ae8ed529e58/TriggerLambdaFunction.py.
 - (3) github.com. https://github.com/SundarAnand/Custom-Face-recognition-using-AWS-rekognition/tree/8188af92d00bc79de37eeb27a33509dc8eca9126/lambda_function-2.py.
+
+----
+
+## iPhone 12 Pro LIDAR specific examples.
+
+### **Geospatial Processes and Outputs**
+
+1. **3D Scanning and Modeling**
+   - **Output**: Detailed 3D models of objects and spaces.
+   - **Tools**: Polycam, 3D Scanner App, OpenMVG, OpenMVS, **Pix4D**, **DJI Terra**.
+   - **Applications**: Architecture, design, AR applications.
+
+2. **Point Clouds**
+   - **Output**: Dense point clouds representing the scanned environment.
+   - **Tools**: PCL (Point Cloud Library), Open3D, **Pix4D**, **DJI Terra**.
+   - **Applications**: Engineering, construction, virtual reality.
+
+3. **Orthomosaics**
+   - **Output**: High-resolution, georeferenced aerial images stitched together.
+   - **Tools**: OpenCV, AWS Lambda, **DroneDeploy**, **DJI Terra**.
+   - **Applications**: Surveying, agriculture, environmental monitoring.
+
+4. **Digital Surface Models (DSM)**
+   - **Output**: Representations of the Earth's surface including all objects.
+   - **Tools**: GDAL, QGIS, **Pix4D**, **DJI Terra**.
+   - **Applications**: Urban planning, forestry, flood risk assessment.
+
+5. **Digital Terrain Models (DTM)**
+   - **Output**: Representations of the bare ground surface.
+   - **Tools**: GDAL, QGIS, **Pix4D**, **DJI Terra**.
+   - **Applications**: Geological studies, hydrology, land use planning.
+
+6. **Contour Maps**
+   - **Output**: Maps showing elevation changes using contour lines.
+   - **Tools**: QGIS, GDAL, **Pix4D**, **DJI Terra**.
+   - **Applications**: Topographical analysis, landscape planning.
+
+### **Cloud and Desktop Applications**
+- **Cloud**: AWS Lambda, Amazon S3, AWS Batch, Azure Maps.
+- **Desktop**: OpenCV, OpenMVG, OpenMVS, PCL, GDAL, QGIS, **Pix4D**, **DroneDeploy**, **DJI Terra**, **WebODM**, **OpenDroneMap (ODM)**.
+
+### **Experimentation and Documentation**
+- **Goal**: Experiment with these processes and document them in labs on GitHub.
+- **Approach**: Capture LiDAR data using your iPhone, process it using the mentioned tools, and create detailed documentation and tutorials.
