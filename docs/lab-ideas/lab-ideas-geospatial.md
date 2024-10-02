@@ -471,44 +471,73 @@ Source: Conversation with Copilot, 10/1/2024
 
 ----
 
-## iPhone 12 Pro LIDAR specific examples.
+## Practical applications of iPhone LIDAR
+iPhone Pro models from 12 onwards have a LIDAR scanner. What can we practically do with this as a hobbyist wanting to so a few experimental labs?
 
-### **Geospatial Processes and Outputs**
+### **3D Point Cloud Processing with CloudCompare**
+**Objective**: Process and analyze 3D point clouds captured with your iPhone.
+**Tools**: iPhone with LiDAR, 3D Scanner App, CloudCompare (desktop software).
+**Steps**:
+1. Use the 3D Scanner App to capture a 3D scan.
+2. Export the scan as a LAS file.
+3. Import the LAS file into CloudCompare.
+4. Perform operations like filtering, segmentation, and measurement on the point cloud¹(https://opentopography.org/blog/iphone-lidar-applications-geosciences).
 
-1. **3D Scanning and Modeling**
-   - **Output**: Detailed 3D models of objects and spaces.
-   - **Tools**: Polycam, 3D Scanner App, OpenMVG, OpenMVS, **Pix4D**, **DJI Terra**.
-   - **Applications**: Architecture, design, AR applications.
+### **Topographic Mapping with QGIS**
+**Objective**: Create topographic maps from LiDAR data.
+**Tools**: iPhone with LiDAR, SiteScape App, QGIS (desktop GIS software).
+**Steps**:
+1. Capture terrain data using the SiteScape App.
+2. Export the data as a point cloud file (e.g., LAS).
+3. Import the point cloud into QGIS.
+4. Generate a Digital Elevation Model (DEM) and create contour maps²(https://3dinsider.com/iphone-lidar-scanner/).
 
-2. **Point Clouds**
-   - **Output**: Dense point clouds representing the scanned environment.
-   - **Tools**: PCL (Point Cloud Library), Open3D, **Pix4D**, **DJI Terra**.
-   - **Applications**: Engineering, construction, virtual reality.
+### **Environmental Monitoring with Python and PDAL**
+**Objective**: Monitor environmental changes using LiDAR data.
+**Tools**: iPhone with LiDAR, 3D Scanner App, Python, PDAL (Point Data Abstraction Library).
+**Steps**:
+1. Capture environmental data with the 3D Scanner App.
+2. Export the data as a LAS file.
+3. Use PDAL in Python to process the point cloud.
+4. Analyze changes over time by comparing multiple scans³(https://www.protocols.io/view/iphone-lidar-tutorial-yxmvm21w9g3p/v3).
 
-3. **Orthomosaics**
-   - **Output**: High-resolution, georeferenced aerial images stitched together.
-   - **Tools**: OpenCV, AWS Lambda, **DroneDeploy**, **DJI Terra**.
-   - **Applications**: Surveying, agriculture, environmental monitoring.
+### **Indoor Mapping with Matterport**
+**Objective**: Create detailed indoor maps and virtual tours.
+**Tools**: iPhone with LiDAR, Matterport App, Matterport Cloud.
+**Steps**:
+1. Scan indoor spaces using the Matterport App.
+2. Upload the scans to the Matterport Cloud.
+3. Use the Matterport platform to create detailed floor plans and virtual tours⁴(https://forums.developer.apple.com/forums/thread/674623).
 
-4. **Digital Surface Models (DSM)**
-   - **Output**: Representations of the Earth's surface including all objects.
-   - **Tools**: GDAL, QGIS, **Pix4D**, **DJI Terra**.
-   - **Applications**: Urban planning, forestry, flood risk assessment.
+### **Archaeological Site Survey with ArcGIS Online**
+**Objective**: Survey and analyze archaeological sites.
+**Tools**: iPhone with LiDAR, 3D Scanner App, ArcGIS Online.
+**Steps**:
+1. Capture site data with the 3D Scanner App.
+2. Export the data as a point cloud file.
+3. Upload the point cloud to ArcGIS Online.
+4. Use ArcGIS tools to analyze and visualize the site⁵(https://www.it-jim.com/blog/iphones-12-pro-lidar-how-to-get-and-interpret-data/).
 
-5. **Digital Terrain Models (DTM)**
-   - **Output**: Representations of the bare ground surface.
-   - **Tools**: GDAL, QGIS, **Pix4D**, **DJI Terra**.
-   - **Applications**: Geological studies, hydrology, land use planning.
+### **LIDAR enhanced Orthomosaics**
+**Objective**: High-resolution, georeferenced aerial images stitched together. Orthomosaics do not need LIDAR, but can be enhanced by using it.
+**Applications**
+- **Urban Planning**: Create detailed maps of urban areas for planning and development.
+- **Environmental Monitoring**: Monitor changes in landscapes, vegetation, and other environmental factors.
+- **Archaeological Surveys**: Map and analyze archaeological sites with high precision.
+**Steps**
+1. **Capture LiDAR Data**: Use an app like "3D Scanner App" or "Polycam" on your iPhone to capture LiDAR data of the area you want to map.
+2. **Capture Aerial Imagery**: If possible, use a drone to capture high-resolution aerial images of the same area. This will provide the necessary imagery for the orthomosaic.
+3. **Export Data**: Export the LiDAR data as a point cloud file (e.g., LAS or PLY) and the aerial images in a format compatible with your photogrammetry software (e.g., JPEG or TIFF).
+4. **Process LiDAR Data**: Use software like CloudCompare or PDAL to process the LiDAR data. This can include filtering, noise reduction, and generating a Digital Elevation Model (DEM).
+5. **Photogrammetry Software**: Use photogrammetry software like Agisoft Metashape, Pix4D, or OpenDroneMap to create the orthomosaic. These tools can integrate LiDAR data to improve the accuracy of the orthomosaic.
+6. **Combine Data**: Import both the aerial images and the processed LiDAR data into the photogrammetry software. The software will use the LiDAR data to correct distortions and improve the accuracy of the orthomosaic.
 
-6. **Contour Maps**
-   - **Output**: Maps showing elevation changes using contour lines.
-   - **Tools**: QGIS, GDAL, **Pix4D**, **DJI Terra**.
-   - **Applications**: Topographical analysis, landscape planning.
-
-### **Cloud and Desktop Applications**
-- **Cloud**: AWS Lambda, Amazon S3, AWS Batch, Azure Maps.
-- **Desktop**: OpenCV, OpenMVG, OpenMVS, PCL, GDAL, QGIS, **Pix4D**, **DroneDeploy**, **DJI Terra**, **WebODM**, **OpenDroneMap (ODM)**.
-
-### **Experimentation and Documentation**
-- **Goal**: Experiment with these processes and document them in labs on GitHub.
-- **Approach**: Capture LiDAR data using your iPhone, process it using the mentioned tools, and create detailed documentation and tutorials.
+## Libraries
+**3D Scanning and Modeling**
+   - **Tools**: Polycam, 3D Scanner App, OpenMVG, OpenMVS,
+**Point Clouds**
+   - **Tools**: PCL (Point Cloud Library), Open3D
+**Digital Surface Models (DSM)**
+**Digital Terrain Models (DTM)**
+**Contour Maps**
+   - **Tools**: QGIS, GDAL
