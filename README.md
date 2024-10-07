@@ -30,8 +30,8 @@ I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.micr
 | ✅ | [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | Fundamentals |
 | 🤔 | [Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/) | Fundamentals |
 | 🤔 | [Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | Associate |
-| 🤔 | Developer Associate (AZ-204) | Associate |
-| 🤔 | Solutions Architect Expert (AZ-305) | Expert |
+| 🤔 | Developer Associate (AZ-204) | Associate (Role-Based) |
+| 🤔 | Solutions Architect Expert (AZ-305) | Expert (Role-Based) |
 
 ✅ Passed 
 ⌛ Booked
