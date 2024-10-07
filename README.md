@@ -16,7 +16,7 @@ My main lab objective is to gain practical cloud experience to suppliment theory
 | Status | Certification | Level |
 |:---:|---|---|
 | ✅ | [AWS Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/) | Fundamentals |
-| ⌛ | [AWS AI Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/) | Fundamentals |
+| ✅ | [AWS AI Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/) | Fundamentals |
 | ⌛ | [AWS Solutions Architect (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | Associate |
 | 🤔 | [AWS Machine Learning Engineer (MLA-C01)](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate) | Associate |
 | 🤔 | AWS Solutions Architect (SAP-302) | Professional |
