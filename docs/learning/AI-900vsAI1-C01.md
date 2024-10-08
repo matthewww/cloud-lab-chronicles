@@ -2,7 +2,14 @@
 - [AWS Certified AI Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/)
 - [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
 
-Here are some key topics from the AI-900 exam and their corresponding areas in the AWS Certified AI Practitioner exam.
+## Personal Reflection
+Azure segmentation is simpler (Azure AI Services and Azure OpenAI vs AWS SageMaker, Bedrock, all the Foundation Models and all the older AWS AI services.)
+
+The AI services also seemed more fragmented in AWS, it took me longer to differentiate all of them in my head (eg Rekognition, Textract, and Comprehend).
+
+I felt there was deeper theory on the AWS exam, such as NLP evaluation metrics (eg. BLEU, ROUGE).
+
+So overall, AWS difficulty was higher due to complexity and depth, though some of this may be due to it being a Beta.
 
 ## AI Workloads and Considerations
 **AI-900**
@@ -11,7 +18,7 @@ Understanding AI workloads, ethical considerations, and responsible AI.
 
 **AI1-C01**
 
-Fundamental concepts and terminologies of AI, ML, and generative AI, including responsible AI1.
+Fundamental concepts and terminologies of AI, ML, and generative AI, including responsible AI.
 
 ## Machine Learning on Azure
 #### AI-900
@@ -20,7 +27,7 @@ Principles of machine learning, including supervised and unsupervised learning, 
 
 #### AI1-C01
 
-Model training and fine-tuning, feature engineering, and AWS SageMaker for building, training, and deploying ML models12.
+Model training and fine-tuning, feature engineering, and AWS SageMaker for building, training, and deploying ML models.
 
 ## Computer Vision Workloads
 #### AI-900
@@ -29,7 +36,7 @@ Features of computer vision workloads, including image classification, object de
 
 #### AI1-C01
 
-AWS Rekognition for image and video analysis, and other computer vision services1.
+AWS Rekognition for image and video analysis, and other computer vision services.
 
 ## Natural Language Processing (NLP) Workloads
 #### AI-900
@@ -38,7 +45,7 @@ Features of NLP workloads, including text analytics, language understanding, and
 
 #### AI1-C01
 
-AWS Comprehend for NLP tasks, including sentiment analysis, entity recognition, and language detection1.
+AWS Comprehend for NLP tasks, including sentiment analysis, entity recognition, and language detection.
 
 ## Generative AI Workloads
 #### AI-900
@@ -47,21 +54,4 @@ Features of generative AI workloads, including Azure OpenAI Service.
 
 #### AI1-C01
 
-Generative AI concepts and use cases, including AWS services for generative AI1.
-
-## Study Tips
-#### Compare Services
-
-While studying Azure AI services, look up the equivalent AWS services. For example, compare Azure Machine Learning with AWS SageMaker.
-
-#### Hands-On Practice
-
-Try to get hands-on experience with both Azure and AWS platforms. This will help solidify your understanding of how each service works.
-
-#### Documentation and Tutorials
-
-Utilize the official documentation and tutorials from both Microsoft and AWS to get a deeper understanding of each topic.
-
-#### Practice Exams
-
-Take practice exams for both certifications to identify areas where you need more study.
+Generative AI concepts and use cases, including AWS services for generative AI.
