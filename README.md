@@ -19,7 +19,7 @@ My main lab objective is to gain practical cloud experience to suppliment theory
 | ✅ | [AWS AI Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/) | Fundamentals |
 | ⌛ | [AWS Solutions Architect (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | Associate |
 | 🤔 | [AWS Machine Learning Engineer (MLA-C01)](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate) | Associate |
-| 🤔 | AWS Solutions Architect (SAP-302) | Professional |
+| 🤔 | [AWS Solutions Architect (SAP-302)](https://aws.amazon.com/certification/certified-solutions-architect-professional/) | Professional |
 
 I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI) in part because I currently work with .NET. Microsoft's investment in OpenAI has lead to tight integration to the Azure platform, whereas AWS emphasizes the versatility of its foundation models through services like Amazon Bedrock.
 
@@ -28,10 +28,10 @@ I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.micr
 |:---:|---|---|
 | ✅ | [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) | Fundamentals |
 | ✅ | [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | Fundamentals |
-| 🤔 | [Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/) | Fundamentals |
-| 🤔 | [Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | Associate |
-| 🤔 | Developer Associate (AZ-204) | Associate (Role-Based) |
-| 🤔 | Solutions Architect Expert (AZ-305) | Expert (Role-Based) |
+| ⌛ | [Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | Associate |
+| 🤔 | [Developer Associate (AZ-204)](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/) | Associate |
+| 🤔 | [Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/) | Associate (Prereq for below) |
+| 🤔 | [Solutions Architect Expert (AZ-305)](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/) | Expert |
 
 ✅ Passed 
 ⌛ Booked
