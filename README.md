@@ -1,4 +1,4 @@
-# Cloud Lab Chronicles 🌦
+e# Cloud Lab Chronicles 🌦
 My goal here is to document the completion of 100 cloud labs, with a robotics and IOT flavour when it makes sense.
 
 I figured that keeping track of my journey here might help keep me accountable to myself. Thanks [Leszek Ucinski](https://github.com/LesUski/100-Days-in-Cloud/tree/main) for the idea.
@@ -38,9 +38,12 @@ I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.micr
 🤔 Maybe
 
 ## AWS Solutions Architect Resources
+- [Well Architected Labs](https://www.wellarchitectedlabs.com/) 
 - [SkillBuilder](https://skillbuilder.aws/exam-prep/solutions-architect-associate)
 - [Adrian Cantrill GitHub Resources](https://github.com/9QIX/AdrianCantrill-SAA-C03)
+- [Notes on the above](https://github.com/vicjor/aws-saa-c03)
 - [Labs Collection](https://github.com/thyagomota/aws-labs)
+- [AWS-SAA-C02-Study-Guide](https://github.com/keenanromain/AWS-SAA-C02-Study-Guide)
 
 
 ### Well Architected Framework PDFs
