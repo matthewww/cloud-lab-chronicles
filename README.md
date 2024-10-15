@@ -1,4 +1,4 @@
-e# Cloud Lab Chronicles 🌦
+# Cloud Lab Chronicles 🌦
 My goal here is to document the completion of 100 cloud labs, with a robotics and IOT flavour when it makes sense.
 
 I figured that keeping track of my journey here might help keep me accountable to myself. Thanks [Leszek Ucinski](https://github.com/LesUski/100-Days-in-Cloud/tree/main) for the idea.
