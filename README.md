@@ -46,8 +46,11 @@ I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.micr
 - [AWS-SAA-C02-Study-Guide](https://github.com/keenanromain/AWS-SAA-C02-Study-Guide)
 
 
-### Well Architected Framework PDFs
-Easy access for my old tablet :)
+### Well Architected Framework
+
+- [Audio version](https://www.youtube.com/watch?v=WO0CT-HmQl4) 
+
+PDFs for easy access for my old tablet :)
 - [Overview](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/framework/wellarchitected-framework.pdf#welcome)
 - [Operational Excellence](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/operational-excellence-pillar/wellarchitected-operational-excellence-pillar.pdf)
 - [Security](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf)
