@@ -2,6 +2,7 @@
 https://aws.amazon.com/certification/certified-solutions-architect-associate/
 
 ### Topic Plan
+From Neal Davis' AWS Certified Solutions Architect Associate (SAA-C03) Course on Udemy.
 
 | #  | Size        | Topic                                      |
 |----|-------------|--------------------------------------------|
@@ -20,3 +21,4 @@ https://aws.amazon.com/certification/certified-solutions-architect-associate/
 | 13 | +           | Monitoring, Logging, and Auditing          |
 | 14 | +           | Security in the Cloud                      |
 | 15 | +           | Migration and Transfer                     |
+| 16 | +           | Web, Mobile, ML and Cost Management        |
