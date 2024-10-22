@@ -22,3 +22,34 @@ From Neal Davis' AWS Certified Solutions Architect Associate (SAA-C03) Course on
 | 14 | +           | Security in the Cloud                      |
 | 15 | +           | Migration and Transfer                     |
 | 16 | +           | Web, Mobile, ML and Cost Management        |
+
+
+### Core Infrastructure 🖥️
+- Amazon Elastic Compute Cloud (EC2)
+- Amazon Virtual Private Cloud (VPC)
+- Elastic Load Balancing and Auto Scaling
+- Block and File Storage**
+
+### Storage and Data Management 📦
+- Amazon Simple Storage Service (S3)
+- Databases and Analytics
+
+### Networking and Performance 🛜
+- DNS, Caching, and Performance Optimization
+
+### Security and Identity 🔐
+- AWS Identity and Access Management (IAM)
+- Security in the Cloud
+
+### Management and Governance 🏢
+- AWS Organizations and Control Tower
+- Deployment and Management
+- Monitoring, Logging, and Auditing
+
+### Application Development 🛠️
+- Docker Containers and ECS
+- Serverless Applications
+- Web, Mobile, ML and Cost Management
+
+### Migration and Transfer 🚚
+- Migration and Transfer
