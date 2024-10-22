@@ -25,31 +25,31 @@ From Neal Davis' AWS Certified Solutions Architect Associate (SAA-C03) Course on
 
 
 ### Core Infrastructure 🖥️
-- Amazon Elastic Compute Cloud (EC2)
-- Amazon Virtual Private Cloud (VPC)
-- Elastic Load Balancing and Auto Scaling
-- Block and File Storage**
+- [ ] Amazon Elastic Compute Cloud (EC2)
+- [x] Amazon Virtual Private Cloud (VPC)
+- [x] Elastic Load Balancing and Auto Scaling
+- [ ] Block and File Storage
 
 ### Storage and Data Management 📦
-- Amazon Simple Storage Service (S3)
-- Databases and Analytics
+- [ ] Amazon Simple Storage Service (S3)
+- [ ] Databases and Analytics
 
 ### Networking and Performance 🛜
-- DNS, Caching, and Performance Optimization
+- [ ] DNS, Caching, and Performance Optimization
 
 ### Security and Identity 🔐
-- AWS Identity and Access Management (IAM)
-- Security in the Cloud
+- [ ] AWS Identity and Access Management (IAM)
+- [x] Security in the Cloud
 
 ### Management and Governance 🏢
-- AWS Organizations and Control Tower
-- Deployment and Management
-- Monitoring, Logging, and Auditing
+- [x] AWS Organizations and Control Tower
+- [ ] Deployment and Management
+- [ ] Monitoring, Logging, and Auditing
 
 ### Application Development 🛠️
-- Docker Containers and ECS
-- Serverless Applications
-- Web, Mobile, ML and Cost Management
+- [ ] Docker Containers and ECS
+- [ ] Serverless Applications
+- [ ] Web, Mobile, ML and Cost Management
 
 ### Migration and Transfer 🚚
-- Migration and Transfer
+- [ ] Migration and Transfer
