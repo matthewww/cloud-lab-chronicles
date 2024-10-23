@@ -1,5 +1,5 @@
 # Cloud Lab Chronicles 🌦
-My goal here is to document the completion of 100 cloud labs, with a robotics and IOT flavour when it makes sense.
+My goal here is to document my certification journey and the cloud labs I do to back up the learning. I'd like to give the labs a robotics and IOT flavour when it makes sense to do so.
 
 I figured that keeping track of my journey here might help keep me accountable to myself. Thanks [Leszek Ucinski](https://github.com/LesUski/100-Days-in-Cloud/tree/main) for the idea.
 
@@ -16,7 +16,7 @@ The following link back to Github, or browse the webpage versions using the menu
 
 ### Amazon AWS
 
-My main lab objective is to gain practical cloud experience to suppliment theory as I travel on the [AWS Architecture Certification](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf) Path. 
+I'm mainly concentrating on following the AWS ecosystem and the [AWS Architecture Certification](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf) path. 
 
 | Status | Certification | Level |
 |:---:|---|---|
@@ -28,7 +28,7 @@ My main lab objective is to gain practical cloud experience to suppliment theory
 
 ### Microsoft Azure
 
-I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI) in part because I currently work with .NET. Microsoft's investment in OpenAI has lead to tight integration to the Azure platform, whereas AWS emphasizes the versatility of its foundation models through services like Amazon Bedrock.
+I am also interested in the [Azure Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI), in part because I currently work with .NET day to day. Also, Microsoft's investment in OpenAI has lead to tight integration to the Azure platform, whereas AWS emphasizes the versatility of its foundation models through services like Amazon Bedrock, and I think this difference means it's worth looking at both.
 
 | Status | Certification | Level |
 |:---:|---|---|
@@ -41,7 +41,7 @@ I'm also interested in the [Azure Certifications](https://query.prod.cms.rt.micr
 
 ### Google Cloud
 
-Out of interest, here are some of the Google certifications. Down the line, studying for the Architect Professional could be revealing in understanding Google's approach in comparison to the other vendors.
+Down the line, studying for the Google Cloud Architect Professional could be revealing in understanding Google's approach in comparison to the other vendors.
 
 | Certification | Level |
 |---|---|
@@ -51,6 +51,10 @@ Out of interest, here are some of the Google certifications. Down the line, stud
 | [Cloud Developer](https://cloud.google.com/certification/cloud-developer) | Professional | 
 | [Cloud ML Engineer](https://cloud.google.com/certification/machine-learning-engineer) | Professional | 
 
+### CCNA - Cisco Certified Network Associate
+
+As I learn more about networking, I am also starting to wonder if the well-recognised [CCNA](https://learningnetwork.cisco.com/s/ccna-exam-topics) might be worthwhile.
+
 ## AWS Solutions Architect Resources
 - [Well Architected Labs](https://www.wellarchitectedlabs.com/) 
 - [SkillBuilder](https://skillbuilder.aws/exam-prep/solutions-architect-associate)
@@ -58,7 +62,6 @@ Out of interest, here are some of the Google certifications. Down the line, stud
 - [Notes on the above](https://github.com/vicjor/aws-saa-c03)
 - [Labs Collection](https://github.com/thyagomota/aws-labs)
 - [AWS-SAA-C02-Study-Guide](https://github.com/keenanromain/AWS-SAA-C02-Study-Guide)
-
 
 ### Well Architected Framework
 
