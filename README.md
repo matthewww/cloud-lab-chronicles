@@ -53,7 +53,7 @@ Down the line, studying for the Google Cloud Architect Professional could be rev
 
 ### CCNA - Cisco Certified Network Associate
 
-As I learn more about networking, I am also starting to wonder if the well-recognised [CCNA](https://learningnetwork.cisco.com/s/ccna-exam-topics) might be worthwhile.
+As I learn more about networking, I am also starting to wonder if the well-recognised [CCNA 200-301](https://learningnetwork.cisco.com/s/ccna-exam-topics) might be worthwhile. Yes it's not a developer's necessity, but understanding more about how applications talk to the outside world cannot hurt, especially as part of the Solution Architecture journey. 
 
 ## AWS Solutions Architect Resources
 - [Well Architected Labs](https://www.wellarchitectedlabs.com/) 
