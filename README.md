@@ -26,6 +26,8 @@ I'm mainly concentrating on following the AWS ecosystem and the [AWS Architectur
 | 🤔 | [AWS Machine Learning Engineer (MLA-C01)](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate) | Associate |
 | 🤔 | [AWS Solutions Architect (SAP-302)](https://aws.amazon.com/certification/certified-solutions-architect-professional/) | Professional |
 
+Neil Davis reccommends doing all three of the Associate level certifications before the Architect Professional. That's the Architect, Developer, and Sysops Admin Associate exams.
+
 ### Microsoft Azure
 
 I am also interested in the [Azure Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI), in part because I currently work with .NET day to day. Also, Microsoft's investment in OpenAI has lead to tight integration to the Azure platform, whereas AWS emphasizes the versatility of its foundation models through services like Amazon Bedrock, and I think this difference means it's worth looking at both.
