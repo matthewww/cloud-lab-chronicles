@@ -26,6 +26,7 @@ Parkinson’s law of triviality
 The time spent on any agenda item will be in inverse proportion to the sum of money involved.
 
 Theory of Constraints
+
 “A chain is no stronger than its weakest link.” Identify the system constraint. Exploit the system’s constraint. Subordinate everything else to the above decision. Elevate the system’s constraint. Rinse and repeat.
 
 Gall’s Law
@@ -41,6 +42,7 @@ Little’s Law
 Service time is the bottleneck that creates the queue.
 
 Strangler fig pattern
+
 Wrapping old code, with the intent of redirecting it to newer code—bonus points for Skunk Works cultural wrapping.
 
 Brooks’s law
