@@ -21,12 +21,12 @@ I'm mainly concentrating on following the AWS ecosystem and the [AWS Architectur
 | Status | Certification | Level |
 |:---:|---|---|
 | ✅ | [AWS Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/) | Fundamentals |
-| ✅ | [AWS AI Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/) | Fundamentals |
-| ⌛ | [AWS Solutions Architect (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | Associate |
-| 🤔 | [AWS Certified Developer (DVA-C02)](https://aws.amazon.com/certification/certified-developer-associate) | Associate |
-| 🤔 | [AWS Certified Data Engineer (DEA-C01)](https://aws.amazon.com/certification/certified-data-engineer-associate/) | Associate |
-| 🤔 | [AWS Machine Learning Engineer (MLA-C01)](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate) | Associate |
-| 🤔 | [AWS Solutions Architect (SAP-302)](https://aws.amazon.com/certification/certified-solutions-architect-professional/) | Professional |
+| ✅ | [AWS **AI** Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/) | Fundamentals |
+| ⌛ | [AWS Solutions **Architect** Associate (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | Associate |
+| 🤔 | [AWS Certified **Developer** (DVA-C02)](https://aws.amazon.com/certification/certified-developer-associate) | Associate |
+| 🤔 | [AWS Certified **Data Engineer** (DEA-C01)](https://aws.amazon.com/certification/certified-data-engineer-associate/) | Associate |
+| 🤔 | [AWS **Machine Learning Engineer** (MLA-C01)](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate) | Associate |
+| 🤔 | [AWS Solutions **Architect** Professional (SAP-302)](https://aws.amazon.com/certification/certified-solutions-architect-professional/) | Professional |
 
 Neil Davis reccommends doing all three of the Associate level certifications before the Architect Professional. That's the Architect, Developer, and Sysops Admin Associate exams.
 
@@ -37,11 +37,11 @@ I am also interested in the [Azure Certifications](https://query.prod.cms.rt.mic
 | Status | Certification | Level |
 |:---:|---|---|
 | ✅ | [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) | Fundamentals |
-| ✅ | [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | Fundamentals |
-| ⌛ | [Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | Associate |
-| 🤔 | [Developer Associate (AZ-204)](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/) | Associate |
-| 🤔 | [Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/) | Associate (Prereq for below) |
-| 🤔 | [Solutions Architect Expert (AZ-305)](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/) | Expert |
+| ✅ | [Azure **AI** Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | Fundamentals |
+| ⌛ | [Azure **AI Engineer** Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | Associate |
+| 🤔 | [Azure **Developer** Associate (AZ-204)](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/) | Associate |
+| 🤔 | [Azure **Administrator** Associate (AZ-104)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/) | Associate (Prereq for below) |
+| 🤔 | [Azure Solutions **Architect** Expert (AZ-305)](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/) | Expert |
 
 ### Google Cloud
 
