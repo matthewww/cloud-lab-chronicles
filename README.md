@@ -23,6 +23,8 @@ I'm mainly concentrating on following the AWS ecosystem and the [AWS Architectur
 | ✅ | [AWS Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/) | Fundamentals |
 | ✅ | [AWS AI Practitioner Beta (AI1-C01)](https://aws.amazon.com/certification/certified-ai-practitioner/) | Fundamentals |
 | ⌛ | [AWS Solutions Architect (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | Associate |
+| 🤔 | [AWS Certified Developer (DVA-C02)](https://aws.amazon.com/certification/certified-developer-associate) | Associate |
+| 🤔 | [AWS Certified Data Engineer (DEA-C01)](https://aws.amazon.com/certification/certified-data-engineer-associate/) | Associate |
 | 🤔 | [AWS Machine Learning Engineer (MLA-C01)](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate) | Associate |
 | 🤔 | [AWS Solutions Architect (SAP-302)](https://aws.amazon.com/certification/certified-solutions-architect-professional/) | Professional |
 
