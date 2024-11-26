@@ -1,16 +1,30 @@
 # List of useful Laws, Patterns and Frameworks:
-https://martyoo.medium.com/stop-team-topologies-fd954ea26eca
-
-## Conway’s law
-
-The structure of any system designed by an organization is isomorphic to the structure of the organization. Consiencly design your system architecture and your organisation hand in hand and let them evolve together.
-
-## Dunbar’s number (150)
-The cognitive limit to the number of people with whom one can maintain stable social relationships — relationships in which an individual knows who each person is and how each person relates to every other person.
+Starting point: https://martyoo.medium.com/stop-team-topologies-fd954ea26eca
 
 ## Cynefin
 
-Cynefin offers five decision-making contexts or “domains” — clear, complicated, complex, chaotic, and confusion — that help people to identify how they perceive situations and make sense of their own and other people’s behaviour.
+Cynefin offers five decision-making contexts or “domains” that help people to identify how they perceive situations and make sense of their own and other people’s behaviour.
+
+- Clear / Simple
+- Complicated
+- Complex
+- Chaotic
+- Confusion
+
+I used this when trying to make sense of a root cause analysis. It gave me insight into why it was hard to do that day. 
+
+It was because some of the branches were leading into Complicated domain (where many software developer's technical problems lie) but others into the Complex domain (which are harder to pin down in a sequential "5 Whys").
+
+## Conway’s law
+
+The way a system is built will reflect how the organization itself is structured. So, design your system and your organization together, allowing them to grow and change in sync.
+
+This has come up a lot lately for me due to being core in the book Team Topologies, along with the Inverse Conway's Law.
+
+Inverse Conway's Law suggests that the way software is designed and structured can actually influence and change the organization itself.
+
+## Dunbar’s number (150)
+The cognitive limit to the number of people with whom one can maintain stable social relationships — relationships in which an individual knows who each person is and how each person relates to every other person.
 
 ## Jobs to Be Done Theory
 
