@@ -1,7 +1,7 @@
 # List of useful Laws, Patterns and Frameworks:
 Starting point: https://martyoo.medium.com/stop-team-topologies-fd954ea26eca
 
-## Cynefin
+## Cynefin framework
 
 Cynefin offers five decision-making contexts or “domains” that help people to identify how they perceive situations and make sense of their own and other people’s behaviour.
 
@@ -11,9 +11,13 @@ Cynefin offers five decision-making contexts or “domains” that help people t
 - Chaotic
 - Confusion
 
-I used this when trying to make sense of a root cause analysis. It gave me insight into why it was hard to do that day. 
+I used this in a most basic sense when trying to make sense of a root cause analysis. It gave me insight into why it was hard to do that day. 
 
 It was because some of the branches were leading into Complicated domain (where many software developer's technical problems lie) but others into the Complex domain (which are harder to pin down in a sequential "5 Whys").
+
+- Dave Snowden
+- Cynefin is a Welsh word for 'habitat'
+- https://en.wikipedia.org/wiki/Cynefin_framework
 
 ## Conway’s law
 
