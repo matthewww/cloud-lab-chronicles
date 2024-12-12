@@ -55,6 +55,12 @@ Down the line, studying for the Google Cloud Architect Professional could be rev
 | [Cloud Developer](https://cloud.google.com/certification/cloud-developer) | Professional | 
 | [Cloud ML Engineer](https://cloud.google.com/certification/machine-learning-engineer) | Professional | 
 
+### Deep Learning - Not Cloud
+
+In terms of ML, the parts of the AI courses I'm enjoying most don't require cloud services at all (though compute on tap is a bonus). This course comes with great reviews.
+
+[Practical Deep Learning for Coders](https://course.fast.ai)
+
 ### CCNA - Cisco Certified Network Associate
 
 As I learn more about networking, I am also starting to wonder if the well-recognised [CCNA 200-301](https://learningnetwork.cisco.com/s/ccna-exam-topics) might be worthwhile. Yes it's not a developer's necessity, but understanding more about how applications talk to the outside world cannot hurt, especially as part of the Solution Architecture journey. 
