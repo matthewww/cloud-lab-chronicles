@@ -70,3 +70,22 @@ You can sign up to the developer programme and virtual conference all at once
 - **NCA-GENL** focuses specifically on generative AI and LLMs with NVIDIA solutions, while **AI-201** covers a broader range of AI solutions using Azure AI services.
 - **NCA-GENL** has a 2-year validity period, whereas **AI-201** needs to be renewed annually.
 - The target audience for **NCA-GENL** includes a wider range of AI specialists, while **AI-201** is more focused on Azure AI engineers and related roles.
+
+  # NVIDIA Generative AI LLMs (NCA-GENL) Notes
+  - NVIDIA NGC (NVIDIA GPU Cloud) https://www.nvidia.com/en-us/gpu-cloud/
+  - Google Colab: Many NeMo tutorials can be run on Google Colab, which provides free access to GPUs
+
+NeMo
+- https://github.com/NVIDIA/NeMo
+- https://www.google.com/url?q=https%3A%2F%2Fdocs.nvidia.com%2Fdeeplearning%2Fnemo%2Fuser-guide%2Fdocs%2Fen%2Fmain%2F%23
+- Automatic speech recognition (ASR), natural language processing (NLP) and text synthesis (TTS)
+- Framework - Streamline LLM experimentation
+  - Experment Logging
+  - Visualisations
+  - Hyperparameter optimisations (optuna, raytune)
+  - https://colab.research.google.com/github/NVIDIA/NeMo/blob/main/tutorials/00_NeMo_Primer.ipynb
+ 
+Riva
+- Automatic speech recognition (ASR), text-to-speech (TTS), and neural machine translation (NMT)
+- Deployable in all clouds, in data centers, at the edge, or in embedded devices.
+- https://build.nvidia.com/explore/speech
