@@ -67,11 +67,9 @@ $135
 |---|---|
 | [Generative AI LLMs (NCA-GENL)](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/) | Associate |
 | [Generative AI Multimodal (NCA-GENM)](https://www.nvidia.com/en-us/learn/certification/generative-ai-multimodal-associate/) | Associate |
-
-- [Building RAG Agents with LLMs](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1)
-- [Disaster Risk Monitoring Using Satellite Imagery
-](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-ES-01+V1&unit=block-v1:DLI+S-ES-01+V1+type@vertical+block@c9c23620d63c470a8077ab70b0bfa9c0)
-- [Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1)
+| [Building RAG Agents with LLMs](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1) |  |
+| [Disaster Risk Monitoring Using Satellite Imagery](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-ES-01+V1&unit=block-v1:DLI+S-ES-01+V1+type@vertical+block@c9c23620d63c470a8077ab70b0bfa9c0) |  |
+| [Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) |  |
 
 #### Robotics
 
