@@ -1,8 +1,21 @@
-- https://quizlet.com/926153141/nvidia-certified-llm-associate-exam-nca-genl-flash-cards/
-- https://github.com/manifoldailearning/NVIDIA-Certified-Associate--Generative-AI-LLMs-NCA-GENL
-- [NVIDIA Generative AI LLMs - NCA-GENL - Certification](https://www.youtube.com/watch?v=goB0goX3eGU&t=545s)
+# GTC (GPU Technology Conference)
+- https://www.nvidia.com/gtc/
+- [Catalog](https://www.nvidia.com/gtc/session-catalog/?regcode=no-ncid&ncid=no-ncid&tab.catalogallsessionstab=16566177511100015Kus#/)
+- [Robotics](https://www.nvidia.com/gtc/session-catalog/?regcode=no-ncid&ncid=no-ncid&tab.catalogallsessionstab=16566177511100015Kus&search.language=1594320459782001LCjF&search.proboticsp=1699468551284006KaE2&search.proboticsp=1699468551284004KQeM&search.proboticsp=1699468551284003KG4C&search.proboticsp=1699468551284002KLHu&search.proboticsp=1699468551284001Ka2F&search.proboticsp=1736269712142001hxuj#/)
 
+You can sign up to the developer programme and virtual conference all at once
+- Virtual access to GTC content
+- On-demand access to sessions, talks, and tutorials
 
+- [Forums](https://forums.developer.nvidia.com/c/ai-data-science/86)
+
+# NCA-GENL Learning Resources
+- [Become an NVIDIA Certified Associate in Generative AI and LLMs](https://www.whizlabs.com/blog/nvidia-certified-associate-generative-ai-llms/)
+- [Flash Cards](https://quizlet.com/926153141/nvidia-certified-llm-associate-exam-nca-genl-flash-cards/)
+- [Manifold - Github Resources](https://github.com/manifoldailearning/NVIDIA-Certified-Associate--Generative-AI-LLMs-NCA-GENL)
+- [Manifold - NVIDIA Generative AI LLMs - NCA-GENL - Certification](https://www.youtube.com/watch?v=goB0goX3eGU&t=545s)
+
+# NVIDIA NCA-GENL vs Azure AI-201
 ### **NCA-GENL (NVIDIA Certified Associate - Generative AI with LLMs)**
 
 **Focus**:
