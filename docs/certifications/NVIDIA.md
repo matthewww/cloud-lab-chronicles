@@ -12,6 +12,7 @@ You can sign up to the developer programme and virtual conference all at once
 - [Flash Cards](https://quizlet.com/926153141/nvidia-certified-llm-associate-exam-nca-genl-flash-cards/)
 - [Manifold - Github Resources](https://github.com/manifoldailearning/NVIDIA-Certified-Associate--Generative-AI-LLMs-NCA-GENL)
 - [Manifold - NVIDIA Generative AI LLMs - NCA-GENL - Certification](https://www.youtube.com/watch?v=goB0goX3eGU&t=545s)
+- [Manifold - Slides](https://workdrive.zohopublic.in/external/25b99e87d230d341ca549d0f08f413ecc3bab840cde6f060b87fb990ae14c5b3)
 
 # NVIDIA NCA-GENL vs Azure AI-201
 ### **NCA-GENL (NVIDIA Certified Associate - Generative AI with LLMs)**
