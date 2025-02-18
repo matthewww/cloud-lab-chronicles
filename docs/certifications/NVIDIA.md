@@ -7,8 +7,6 @@ You can sign up to the developer programme and virtual conference all at once
 - Virtual access to GTC content
 - On-demand access to sessions, talks, and tutorials
 
-- [Forums](https://forums.developer.nvidia.com/c/ai-data-science/86)
-
 # NCA-GENL Learning Resources
 - [Become an NVIDIA Certified Associate in Generative AI and LLMs](https://www.whizlabs.com/blog/nvidia-certified-associate-generative-ai-llms/)
 - [Flash Cards](https://quizlet.com/926153141/nvidia-certified-llm-associate-exam-nca-genl-flash-cards/)
