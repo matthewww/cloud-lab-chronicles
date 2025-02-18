@@ -70,14 +70,19 @@ $135
 | [Building RAG Agents with LLMs](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1) |  |
 | [Disaster Risk Monitoring Using Satellite Imagery](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-ES-01+V1&unit=block-v1:DLI+S-ES-01+V1+type@vertical+block@c9c23620d63c470a8077ab70b0bfa9c0) |  |
 | [Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) |  |
+| [Building A Brain in 10 Minutes](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-FX-01+V1)
 
-#### Robotics
+#### Robotics (Issac Sim)
+Ubuntu or Windows 10/11
+GeForce RTX 3070 -> 4080 -> Ada 6000
 
+- https://docs.isaacsim.omniverse.nvidia.com/latest/index.html
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-27+V1
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-28+V1
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-29+V1
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-30+V1
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-31+V1
+- https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-32+V1
 
 ## Lab Index
 The following link back to Github, or browse the webpage versions using the menu.
