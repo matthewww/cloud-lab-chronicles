@@ -3,13 +3,7 @@ My goal here is to document my certification journey and the cloud labs I do to 
 
 I figured that keeping track of my journey here might help keep me accountable to myself. Thanks [Leszek Ucinski](https://github.com/LesUski/100-Days-in-Cloud/tree/main) for the idea.
 
-## Lab Index
-The following link back to Github, or browse the webpage versions using the menu.
-
-- [00-pages-setup](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/00-pages-setup.md)
-- [01-esp32-telemetry](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/01-esp32-telemetry.md) **WIP**
-
-## Certification Journey
+## Certification Journey - Cloud
 ✅ Passed 
 ⌛ Booked
 🤔 Maybe
@@ -55,15 +49,25 @@ Down the line, studying for the Google Cloud Architect Professional could be rev
 | [Cloud Developer](https://cloud.google.com/certification/cloud-developer) | Professional | 
 | [Cloud ML Engineer](https://cloud.google.com/certification/machine-learning-engineer) | Professional | 
 
-### Deep Learning - Not Cloud
+## Certification Journey - AI and ML
+
+### Nvidia 
+
+| Certification | Level |
+|---|---|
+| [Generative AI LLMs (NCA-GENL)](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/) | Associate |
+
+### Deep Learning
 
 In terms of ML, the parts of the AI courses I'm enjoying most don't require cloud services at all (though compute on tap is a bonus). This course comes with great reviews.
 
 [Practical Deep Learning for Coders](https://course.fast.ai)
 
-### CCNA - Cisco Certified Network Associate
+## Lab Index
+The following link back to Github, or browse the webpage versions using the menu.
 
-As I learn more about networking, I am also starting to wonder if the well-recognised [CCNA 200-301](https://learningnetwork.cisco.com/s/ccna-exam-topics) might be worthwhile. Yes it's not a developer's necessity, but understanding more about how applications talk to the outside world cannot hurt, especially as part of the Solution Architecture journey. 
+- [00-pages-setup](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/00-pages-setup.md)
+- [01-esp32-telemetry](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/01-esp32-telemetry.md) **WIP**
 
 ## AWS Solutions Architect Resources
 - [Well Architected Labs](https://www.wellarchitectedlabs.com/) 
