@@ -51,6 +51,13 @@ Down the line, studying for the Google Cloud Architect Professional could be rev
 
 ## Certification Journey - AI and ML
 
+### Machine Learning
+
+In terms of ML, the parts of the AI courses I'm enjoying most don't require cloud services at all (though compute on tap is a bonus). This course comes with great reviews.
+
+[Practical Deep Learning for Coders](https://course.fast.ai)
+[Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
+
 ### Nvidia 
 
 $135
@@ -72,15 +79,6 @@ $135
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-29+V1
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-30+V1
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-31+V1
-
-
-
-
-### Deep Learning
-
-In terms of ML, the parts of the AI courses I'm enjoying most don't require cloud services at all (though compute on tap is a bonus). This course comes with great reviews.
-
-[Practical Deep Learning for Coders](https://course.fast.ai)
 
 ## Lab Index
 The following link back to Github, or browse the webpage versions using the menu.
