@@ -1,5 +1,7 @@
-https://quizlet.com/926153141/nvidia-certified-llm-associate-exam-nca-genl-flash-cards/
-https://github.com/manifoldailearning/NVIDIA-Certified-Associate--Generative-AI-LLMs-NCA-GENL
+- https://quizlet.com/926153141/nvidia-certified-llm-associate-exam-nca-genl-flash-cards/
+- https://github.com/manifoldailearning/NVIDIA-Certified-Associate--Generative-AI-LLMs-NCA-GENL
+- [NVIDIA Generative AI LLMs - NCA-GENL - Certification](https://www.youtube.com/watch?v=goB0goX3eGU&t=545s)
+
 
 ### **NCA-GENL (NVIDIA Certified Associate - Generative AI with LLMs)**
 
