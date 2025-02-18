@@ -57,6 +57,7 @@ In terms of ML, the parts of the AI courses I'm enjoying most don't require clou
 
 - [Practical Deep Learning for Coders](https://course.fast.ai)
 - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
+- [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 
 ### Nvidia 
 
