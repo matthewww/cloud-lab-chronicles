@@ -73,8 +73,6 @@ $135
 ](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-ES-01+V1&unit=block-v1:DLI+S-ES-01+V1+type@vertical+block@c9c23620d63c470a8077ab70b0bfa9c0)
 - [Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1)
 
-- [NVIDIA Generative AI LLMs - NCA-GENL - Certification](https://www.youtube.com/watch?v=goB0goX3eGU&t=545s)
-
 #### Robotics
 
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-27+V1
