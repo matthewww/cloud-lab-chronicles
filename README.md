@@ -55,8 +55,8 @@ Down the line, studying for the Google Cloud Architect Professional could be rev
 
 In terms of ML, the parts of the AI courses I'm enjoying most don't require cloud services at all (though compute on tap is a bonus). This course comes with great reviews.
 
-[Practical Deep Learning for Coders](https://course.fast.ai)
-[Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
+- [Practical Deep Learning for Coders](https://course.fast.ai)
+- [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
 
 ### Nvidia 
 
