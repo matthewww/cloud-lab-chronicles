@@ -50,19 +50,19 @@ Down the line, studying for the Google Cloud Architect Professional could be rev
 | [Cloud ML Engineer](https://cloud.google.com/certification/machine-learning-engineer) | Professional | 
 
 ## Certification Journey - AI and ML
-
-### Machine Learning
-
-In terms of ML, the parts of the AI courses I'm enjoying most don't require cloud services at all (though compute on tap is a bonus). This course comes with great reviews.
+### Misc
 
 - [Practical Deep Learning for Coders](https://course.fast.ai)
 - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
-- [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+- [https://code.visualstudio.com/api/extension-guides/chat](https://code.visualstudio.com/api/extension-guides/chat)
+
+### Deeplearning.ai / Coursera
+- [https://www.deeplearning.ai/courses/generative-ai-with-llms/](https://www.deeplearning.ai/courses/generative-ai-with-llms/) 15h wit AWS
+- [https://www.deeplearning.ai/courses/generative-ai-for-everyone/](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) 4h
+- [https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/) Short
+- [https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) Short
 
 ### Nvidia 
-
-$135
-
 | Certification | Level |
 |---|---|
 | [Generative AI LLMs (NCA-GENL)](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/) | Associate |
@@ -71,6 +71,8 @@ $135
 | [Disaster Risk Monitoring Using Satellite Imagery](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-ES-01+V1&unit=block-v1:DLI+S-ES-01+V1+type@vertical+block@c9c23620d63c470a8077ab70b0bfa9c0) |  |
 | [Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) |  |
 | [Building A Brain in 10 Minutes](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-FX-01+V1)
+
+$135
 
 #### Robotics (Issac Sim)
 Ubuntu or Windows 10/11
