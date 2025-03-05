@@ -52,6 +52,7 @@ Down the line, studying for the Google Cloud Architect Professional could be rev
 ## Certification Journey - AI and ML
 ### Misc
 
+- [Deep Dive into LLMs like ChatGPT - Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 - [Practical Deep Learning for Coders](https://course.fast.ai)
 - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
 - [https://code.visualstudio.com/api/extension-guides/chat](https://code.visualstudio.com/api/extension-guides/chat)
