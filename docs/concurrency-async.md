@@ -11,13 +11,40 @@
 | Mutex/Semaphore   | `java.util.concurrent.locks.ReentrantLock`, `java.util.concurrent.Semaphore` | `threading.Lock`, `threading.Semaphore` | - | - | `std::mutex`, `std::semaphore` | `std::sync::Mutex`, `std::sync::Semaphore` | - | - | `System.Threading.Mutex`, `System.Threading.Semaphore` |
 | Task Management   | `java.util.concurrent.CompletableFuture`           | -                           | -                          | -          | `std::async`            | -                           | -                      | -                          | `System.Threading.Tasks.Task`         |
 
+### Threads
+A thread is the smallest unit of a process that can be scheduled and executed independently.
+
+### Thread Pools
+A thread pool is a collection of pre-instantiated reusable threads that can be used to execute tasks, improving performance and resource management.
+
+### Futures
+A future represents the result of an asynchronous computation, allowing you to retrieve the result once the computation is complete.
+
+### Async/Await
+Async/await is a programming pattern that allows you to write asynchronous code in a synchronous style, making it easier to read and maintain.
+
+### Event Loop
+An event loop is a programming construct that waits for and dispatches events or messages in a program, often used in asynchronous programming.
+
+### Coroutines
+Coroutines are lightweight, cooperative threads that allow you to write asynchronous code without blocking the main thread.
+
+### Channels
+Channels are a means of communication between concurrent tasks, allowing them to send and receive messages.
+
+### Mutex/Semaphore
+A mutex (mutual exclusion) is a synchronization primitive that ensures only one thread can access a resource at a time. A semaphore is a signaling mechanism that controls access to a shared resource by multiple threads.
+
+### Task Management
+Task management involves creating, scheduling, and managing the execution of tasks, often using futures or promises to handle asynchronous operations.
+
 ### Additional Information:
-- **Java**: Java also supports **ForkJoinPool** for parallel processing[1](https://www.javaguides.net/2025/02/concurrency-in-java-best-practices-for-multithreading.html).
-- **Python**: Python's `multiprocessing` module allows for true parallelism by utilizing multiple CPU cores[2](https://www.infoworld.com/article/2269314/python-concurrency-and-parallelism-explained.html)[3](https://realpython.com/python-concurrency/).
-- **JavaScript**: JavaScript achieves parallelism using **Web Workers** and libraries like **Parallel.js**[4](https://blog.openreplay.com/concurrency-vs-parallelism-in-javascript/)[5](https://stackoverflow.com/questions/63540256/parallel-concurrent-method-execution-in-javascript).
-- **Go**: Go's `GOMAXPROCS` setting allows configuring the number of threads for parallel execution[6](https://stackoverflow.com/questions/49100512/how-to-achieve-proper-parallelism-in-golang-are-goroutines-parallel-in-versions)[7](https://dev.to/bhargab/understanding-parallelism-vs-concurrency-in-go-47ch).
-- **C++**: C++ provides **std::async** for asynchronous task management and **parallel algorithms** in the STL[8](https://codezup.com/c-concurrency-parallelism-guide/)[9](https://www.w3computing.com/articles/concurrency-parallelism-cplusplus-unlocking-high-performance-computing/).
-- **Rust**: Rust's concurrency model leverages its ownership system and type checking to prevent data races at compile time[10](https://doc.rust-lang.org/book/ch16-00-concurrency.html)[11](https://dev.to/aaravjoshi/mastering-rusts-concurrency-a-developers-guide-to-safe-parallel-programming-5127).
-- **Kotlin**: Kotlin's coroutines are a powerful tool for asynchronous programming, offering lightweight concurrency[12](https://tutcoach.com/kotlin/concurrency-and-parallelism-in-kotlin/)[13](https://www.baeldung.com/kotlin/parallel-coroutines).
-- **Swift**: Swift's concurrency model includes **Grand Central Dispatch (GCD)** and **async/await** for structured concurrency[14](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/)[15](https://www.blog.finotes.com/post/concurrency-and-parallelism-in-swift).
-- **C#**: C# supports parallel programming through the **Task Parallel Library (TPL)** and **Parallel LINQ (PLINQ)**[16](https://www.csharp.com/article/concurrency-and-parallelism-in-c-sharp/)[17](https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/).
+- **Java**: Java also supports **ForkJoinPool** for parallel processing.
+- **Python**: Python's `multiprocessing` module allows for true parallelism by utilizing multiple CPU cores.
+- **JavaScript**: JavaScript achieves parallelism using **Web Workers** and libraries like **Parallel.js**.
+- **Go**: Go's `GOMAXPROCS` setting allows configuring the number of threads for parallel execution.
+- **C++**: C++ provides **std::async** for asynchronous task management and **parallel algorithms** in the STL.
+- **Rust**: Rust's concurrency model leverages its ownership system and type checking to prevent data races at compile time.
+- **Kotlin**: Kotlin's coroutines are a powerful tool for asynchronous programming, offering lightweight concurrency.
+- **Swift**: Swift's concurrency model includes **Grand Central Dispatch (GCD)** and **async/await** for structured concurrency.
+- **C#**: C# supports parallel programming through the **Task Parallel Library (TPL)** and **Parallel LINQ (PLINQ)**.
