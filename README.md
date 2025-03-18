@@ -79,6 +79,9 @@ $135
 Ubuntu or Windows 10/11
 GeForce RTX 3070 -> 4080 -> Ada 6000
 [Container / Cloud Intallation](https://docs.isaacsim.omniverse.nvidia.com/latest/installation/install_container.html#isaac-sim-app-install-container)
+
+https://aws.amazon.com/marketplace/pp/prodview-tfohnapk66dgs
+
 [Cloud deployment](https://docs.omniverse.nvidia.com/isaacsim/latest/installation/install_cloud.html)
 - https://docs.isaacsim.omniverse.nvidia.com/latest/index.html
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-27+V1
