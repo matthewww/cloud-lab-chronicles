@@ -1,7 +1,7 @@
 This is the main studio going forward. It's very much geared towards leveraging genAI
 - [Azure AI Foundry](https://ai.azure.com)
 
-- [Copilot Studio](https://www.copilotstudio.microsoft.com -> There is an Agents Playground in preview with some crossover.
+- [Copilot Studio](https://www.copilotstudio.microsoft.com) -> There is an Agents Playground in preview with some crossover.
   - Build your own Copilot designed for your employees, customers or partners for internal sites, moble apps or social channels.
 
 Older Studios
