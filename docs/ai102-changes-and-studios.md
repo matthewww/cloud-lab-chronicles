@@ -50,9 +50,16 @@ Older Studios
 # Legacy Track 1 -> Modern Track 2
 This can confuse SDK usage. 
 
-For example, the QnAMakerClient lives in the Microsoft.Azure.CognitiveServices.* namespace which relies on ServiceClientCredentials to supply authentication headers. 
+| **Service**               | **Track 1 SDK**                                                                                         | **Track 2 SDK**                                                                                         |
+|---------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| **Text Analytics**        | `Microsoft.Azure.CognitiveServices.Language.TextAnalytics`<br><br>`new TextAnalyticsClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint }` | `Azure.AI.TextAnalytics`<br><br>`new TextAnalyticsClient(new Uri(endpoint), new AzureKeyCredential(key))` |
+| **Computer Vision**       | `Microsoft.Azure.CognitiveServices.Vision.ComputerVision`<br><br>`new ComputerVisionClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint }` | `Azure.AI.Vision.ComputerVision`<br><br>`new ComputerVisionClient(new Uri(endpoint), new AzureKeyCredential(key))` |
+| **Form Recognizer**       | `Microsoft.Azure.CognitiveServices.FormRecognizer`<br><br>`new FormRecognizerClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint }` | `Azure.AI.FormRecognizer.DocumentAnalysis`<br><br>`new DocumentAnalysisClient(new Uri(endpoint), new AzureKeyCredential(key))` |
+| **Speech Services**       | `Microsoft.CognitiveServices.Speech`<br><br>`SpeechConfig.FromSubscription(key, region)`<br><br>`SpeechConfig.FromEndpoint(new Uri(endpoint), key)` | *No Track 2 SDK available; service continues with traditional SDK structure*                             |
+| **QnA Maker (Authoring)** | `Microsoft.Azure.CognitiveServices.Knowledge.QnAMaker`<br><br>`new QnAMakerClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint }` | `Azure.AI.Language.QuestionAnswering`<br><br>`new QuestionAnsweringClient(new Uri(endpoint), new AzureKeyCredential(key))` |
+| **Language Understanding**| `Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime`<br><br>`new LUISRuntimeClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint }` | `Azure.AI.Language.Conversations`<br><br>`new ConversationAnalysisClient(new Uri(endpoint), new AzureKeyCredential(key))` |
 
-AzureKeyCredential is part of the newer Azure.Core authentication model (Track 2 SDKs) designed to work with ClientOptions‑based constructors; the QnA Maker authoring client has not yet been migrated to that architecture.
+
 
 # Form Recognizer -> Document Analysis
 [FormRecognizerClient -> DocumentAnalysisClient](https://github.com/Azure/azure-sdk-for-net/blob/Azure.AI.FormRecognizer_4.1.0/sdk/formrecognizer/Azure.AI.FormRecognizer/MigrationGuide.md)
