@@ -47,15 +47,25 @@ Older Studios
 - [Speech Studio](https://speech.microsoft.com) -> Speech Playground
 - [ML Studio](https://ml.azure.com/)
 
-# Legacy Track 1 -> Modern Track 2
+# Legacy Track 1 "Cognitive" -> Modern Track 2 "AI"
 This can confuse SDK usage. 
+
+Track 1 example:
+
+`var credentials = ApplicationTokenProvider.LoginSilentAsync("tenantId", "clientId", "clientSecret").Result;`
+`var client = new FormRecognizerClient(credentials) { Endpoint = "https://your-region.api.cognitive.microsoft.com" };`
+
+Track 2 example: 
+
+`var client = new DocumentAnalysisClient(new Uri("https://your-region.api.cognitive.microsoft.com"), new AzureKeyCredential("your-api-key"));`
 
 | **Service**               | **Track 1 SDK**                                                                                         | **Track 2 SDK**                                                                                         |
 |---------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | **Text Analytics**        | `Microsoft.Azure.CognitiveServices.Language.TextAnalytics`<br><br>`new TextAnalyticsClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint }` | `Azure.AI.TextAnalytics`<br><br>`new TextAnalyticsClient(new Uri(endpoint), new AzureKeyCredential(key))` |
 | **Computer Vision**       | `Microsoft.Azure.CognitiveServices.Vision.ComputerVision`<br><br>`new ComputerVisionClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint }` | `Azure.AI.Vision.ComputerVision`<br><br>`new ComputerVisionClient(new Uri(endpoint), new AzureKeyCredential(key))` |
 | **Form Recognizer**       | `Microsoft.Azure.CognitiveServices.FormRecognizer`<br><br>`new FormRecognizerClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint }` | `Azure.AI.FormRecognizer.DocumentAnalysis`<br><br>`new DocumentAnalysisClient(new Uri(endpoint), new AzureKeyCredential(key))` |
-| **Speech Services**       | `Microsoft.CognitiveServices.Speech`<br><br>`SpeechConfig.FromSubscription(key, region)`<br><br>`SpeechConfig.FromEndpoint(new Uri(endpoint), key)` | *No Track 2 SDK available; service continues with traditional SDK structure*                             |
+| **Speech Services**       | `Microsoft.CognitiveServices.Speech`<br><br>`SpeechConfig.FromSubscription(key, region)`<br>`SpeechConfig.FromEndpoint(new Uri(endpoint), key)` <br> Or SpeechTranslationConfig
+| *No Track 2 SDK available; service continues with traditional SDK structure*                             |
 | **QnA Maker (Authoring)** | `Microsoft.Azure.CognitiveServices.Knowledge.QnAMaker`<br><br>`new QnAMakerClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint }` | `Azure.AI.Language.QuestionAnswering`<br><br>`new QuestionAnsweringClient(new Uri(endpoint), new AzureKeyCredential(key))` |
 | **Language Understanding**| `Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime`<br><br>`new LUISRuntimeClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint }` | `Azure.AI.Language.Conversations`<br><br>`new ConversationAnalysisClient(new Uri(endpoint), new AzureKeyCredential(key))` |
 
