@@ -46,3 +46,10 @@ Older Studios
 - [Language Studio](https://language.cognitive.azure.com) -> Language Playground
 - [Speech Studio](https://speech.microsoft.com) -> Speech Playground
 - [ML Studio](https://ml.azure.com/)
+
+# Legacy Track 1 vs. Modern Track 2
+This can confuse SDK usage. 
+
+For example, the QnAMakerClient lives in the Microsoft.Azure.CognitiveServices.* namespace which relies on ServiceClientCredentials to supply authentication headers. 
+
+AzureKeyCredential is part of the newer Azure.Core authentication model (Track 2 SDKs) designed to work with ClientOptions‑based constructors; the QnA Maker authoring client has not yet been migrated to that architecture.
