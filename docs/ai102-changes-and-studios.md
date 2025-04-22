@@ -73,8 +73,8 @@ Track 2 example:
 - Track 1	- Legacy, pre-2019 SDKs. Inconsistent naming, auth, error handling. Often under Microsoft.Azure.*.
 - Track 2 - Post-2019 revamp. Focus on consistency, idiomatic code, Azure.Identity integration, better ergonomics. Under Azure.*.
 - Track 3? - Microsoft has not officially named or documented a Track 3 but we can hypothesize based on emerging patterns.
-SDKs like Azure.AI.OpenAI are built using the Track 2 guidelines.
 
+SDKs like Azure.AI.OpenAI are built using the Track 2 guidelines.
 But their design constraints differ: usage patterns are prompt-based, streaming/token-based, non-idempotent.
 
 These SDKs are starting to incorporate:
