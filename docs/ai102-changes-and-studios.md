@@ -69,7 +69,21 @@ Track 2 example:
 | **QnA Maker (Authoring)** | `Microsoft.Azure.CognitiveServices.Knowledge.QnAMaker`<br><br>`new QnAMakerClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint }` | `Azure.AI.Language.QuestionAnswering`<br><br>`new QuestionAnsweringClient(new Uri(endpoint), new AzureKeyCredential(key))` |
 | **Language Understanding**| `Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime`<br><br>`new LUISRuntimeClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint }` | `Azure.AI.Language.Conversations`<br><br>`new ConversationAnalysisClient(new Uri(endpoint), new AzureKeyCredential(key))` |
 
+# SDK Track	Summary
+- Track 1	Legacy, pre-2019 SDKs. Inconsistent naming, auth, error handling. Often under Microsoft.Azure.*.
+- Track 2	Post-2019 revamp. Focus on consistency, idiomatic code, Azure.Identity integration, better ergonomics. Under Azure.*.
+- Track 3”? Microsoft has not officially named or documented a Track 3 but we can hypothesize based on emerging patterns.
+SDKs like Azure.AI.OpenAI are built using the Track 2 guidelines.
 
+But their design constraints differ: usage patterns are prompt-based, streaming/token-based, non-idempotent.
+
+These SDKs are starting to incorporate:
+- Streaming responses
+- Enhanced observability (logging, tracing)
+- LLM-specific concerns like token counting
+
+Are these Track 2? Yes. But are they stretching the model? Also yes.
+So if Microsoft were to define a Track 3, it might formalize new idioms for LLM workloads, agent patterns, tool integration, etc.
 
 # Form Recognizer -> Document Analysis
 [FormRecognizerClient -> DocumentAnalysisClient](https://github.com/Azure/azure-sdk-for-net/blob/Azure.AI.FormRecognizer_4.1.0/sdk/formrecognizer/Azure.AI.FormRecognizer/MigrationGuide.md)
