@@ -47,6 +47,15 @@ Older Studios
 - [Speech Studio](https://speech.microsoft.com) -> Speech Playground
 - [ML Studio](https://ml.azure.com/)
 
+## Form Recognizer -> Document Analysis
+[FormRecognizerClient -> DocumentAnalysisClient](https://github.com/Azure/azure-sdk-for-net/blob/Azure.AI.FormRecognizer_4.1.0/sdk/formrecognizer/Azure.AI.FormRecognizer/MigrationGuide.md)
+
+LUIS -> CLU
+[LUIS retires October 1st
+](https://learn.microsoft.com/en-us/azure/ai-services/luis/what-is-luis)
+[Conversational Language Understanding
+](https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/overview)
+
 # Legacy Track 1 "Cognitive" -> Modern Track 2 "AI"
 This can confuse SDK usage. 
 
@@ -85,5 +94,4 @@ These SDKs are starting to incorporate:
 Are these Track 2? Yes. But are they stretching the model? Also yes.
 So if Microsoft were to define a Track 3, it might formalize new idioms for LLM workloads, agent patterns, tool integration, etc.
 
-# Form Recognizer -> Document Analysis
-[FormRecognizerClient -> DocumentAnalysisClient](https://github.com/Azure/azure-sdk-for-net/blob/Azure.AI.FormRecognizer_4.1.0/sdk/formrecognizer/Azure.AI.FormRecognizer/MigrationGuide.md)
+
