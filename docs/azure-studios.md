@@ -1,5 +1,5 @@
-This is the main studio going forward. It's very much geared towards leveraging genAI
 - [Azure AI Foundry](https://ai.azure.com)
+  - This is the main studio going forward. It's very much geared towards leveraging GenAI.
 
 - [Copilot Studio](https://www.copilotstudio.microsoft.com)
   - LowCode Copilot / Bot builder.
