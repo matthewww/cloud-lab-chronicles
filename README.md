@@ -32,7 +32,7 @@ I am also interested in the [Azure Certifications](https://query.prod.cms.rt.mic
 |:---:|---|---|
 | ✅ | [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) | Fundamentals |
 | ✅ | [Azure **AI** Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | Fundamentals |
-| ⌛ | [Azure **AI Engineer** Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | Associate |
+| ✅ | [Azure **AI Engineer** Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | Associate |
 | 🤔 | [Azure **Administrator** Associate (AZ-104)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/) | Associate (Prereq for Arch Expert) |
 | 🤔 | [Azure **Developer** Associate (AZ-204)](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/) | Associate |
 | 🤔 | [Azure Solutions **Architect** Expert (AZ-305)](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/) | Expert |
