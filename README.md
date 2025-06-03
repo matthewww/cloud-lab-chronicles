@@ -60,7 +60,6 @@ Including:
 - NLP
 - [HuggingFace Courses](https://huggingface.co/learn/nlp-course/chapter0/)
 
-- 
 ### Kaggle
 Short, ~4h each. Amongst others:
 - [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
