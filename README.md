@@ -3,7 +3,7 @@ My goal here is to document my certification journey and the cloud labs I do to 
 
 I figured that keeping track of my journey here might help keep me accountable to myself. Thanks [Leszek Ucinski](https://github.com/LesUski/100-Days-in-Cloud/tree/main) for the idea.
 
-## Certification Journey - Cloud
+## Certification Journey - Cloud, ML and AI
 ✅ Passed 
 ⌛ Booked
 🤔 Maybe
@@ -105,12 +105,6 @@ https://aws.amazon.com/marketplace/pp/prodview-tfohnapk66dgs
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-30+V1
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-31+V1
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-32+V1
-
-## Lab Index
-The following link back to Github, or browse the webpage versions using the menu.
-
-- [00-pages-setup](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/00-pages-setup.md)
-- [01-esp32-telemetry](https://github.com/matthewww/cloud-lab-chronicles/blob/main/docs/labs/01-esp32-telemetry.md) **WIP**
 
 ## AWS Solutions Architect Resources
 - [Well Architected Labs](https://www.wellarchitectedlabs.com/) 
