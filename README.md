@@ -33,6 +33,7 @@ I am also interested in the [Azure Certifications](https://query.prod.cms.rt.mic
 | ✅ | [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) | Fundamentals |
 | ✅ | [Azure **AI** Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | Fundamentals |
 | ✅ | [Azure **AI Engineer** Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | Associate |
+| ⌛ | [Azure **Data Scientist** Associate (DP-100)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/) | Associate |
 | 🤔 | [Azure **Administrator** Associate (AZ-104)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/) | Associate (Prereq for Arch Expert) |
 | 🤔 | [Azure **Developer** Associate (AZ-204)](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/) | Associate |
 | 🤔 | [Azure Solutions **Architect** Expert (AZ-305)](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/) | Expert |
@@ -49,11 +50,26 @@ Down the line, studying for the Google Cloud Architect Professional could be rev
 | [Cloud Developer](https://cloud.google.com/certification/cloud-developer) | Professional | 
 | [Cloud ML Engineer](https://cloud.google.com/certification/machine-learning-engineer) | Professional | 
 
-### Misc
+### HuggingFace Courses
+Including: 
+- LLMs
+- MCPs
+- Agents
+- Deep Reinforcemant Learning
+- Diffusion
+- NLP
+- [HuggingFace Courses](https://huggingface.co/learn/nlp-course/chapter0/)
 
+- 
+### Kaggle
+Short, ~4h each. Amongst others:
+- [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
+- [GeoSpatial Analysis](https://www.kaggle.com/learn/geospatial-analysis)
+- [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
+
+### Misc
 - [Deep Dive into LLMs like ChatGPT - Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 - [Practical Deep Learning for Coders](https://course.fast.ai)
-- [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
 - [https://code.visualstudio.com/api/extension-guides/chat](https://code.visualstudio.com/api/extension-guides/chat)
 - [https://www.databricks.com/learn/training/certification](https://www.databricks.com/learn/training/certification)
 
